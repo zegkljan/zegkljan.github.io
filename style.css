@@ -1,3 +1,32 @@
 body {
     text-align: center;
+    font-family: sans-serif;
+    font-size: large;
+}
+
+a {
+    text-decoration: inherit;
+}
+
+#media-list {
+    display: inline-block;
+    text-align: left;
+}
+
+#media-list * {
+    vertical-align: middle;
+}
+
+#media-list > div {
+    margin: 5px;
+}
+
+#blogger-icon {
+    width: 64px;
+    height: 64px;
+}
+
+#facebook, #facebook a, #facebook a:hover, #facebook a:visited {
+    font-size: 2.05em;
+    color: #3B5998;
 }

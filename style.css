@@ -10,7 +10,6 @@ a {
 
 #media-list {
     display: inline-block;
-    text-align: left;
 }
 
 #media-list * {
@@ -19,14 +18,25 @@ a {
 
 #media-list > div {
     margin: 5px;
+    display: block;
 }
 
-#blogger-icon {
-    width: 64px;
-    height: 64px;
+#twitter, #twitter a, #twitter a:hover, #twitter a:visited {
+    font-size: 2.05em;
+    color: #55acee;
+}
+
+#blogger, #blogger a, #blogger a:hover, #blogger a:visited {
+    font-size: 1.5em;
+    color: black;
 }
 
 #facebook, #facebook a, #facebook a:hover, #facebook a:visited {
     font-size: 2.05em;
     color: #3B5998;
+}
+
+#github, #github a, #github a:hover, #github a:visited {
+    font-size: 2.05em;
+    color: black;
 }

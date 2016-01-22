@@ -21,6 +21,10 @@ a {
     display: block;
 }
 
+#media-list > div:hover {
+    background-color: #c3c3c3;
+}
+
 #twitter, #twitter a, #twitter a:hover, #twitter a:visited {
     font-size: 2.05em;
     color: #55acee;

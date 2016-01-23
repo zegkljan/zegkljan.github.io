@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: sans-serif;
-    font-size: large;
+    font-size: x-large;
 }
 
 a {
@@ -9,38 +9,51 @@ a {
 }
 
 #media-list {
-    display: inline-block;
+    display: block;
 }
 
 #media-list * {
     vertical-align: middle;
 }
 
-#media-list > div {
+#media-list a {
     margin: 5px;
     display: block;
+    color: black;
 }
 
-#media-list > div:hover {
-    background-color: #c3c3c3;
+#media-list a:hover span::before {
+    content: "→";
+    margin-right: 0.2em;
 }
 
-#twitter, #twitter a, #twitter a:hover, #twitter a:visited {
-    font-size: 2.05em;
+#media-list a:hover span::after {
+    content: "←";
+    margin-left: 0.2em;
+}
+
+#twitter .fa {
     color: #55acee;
 }
 
-#blogger, #blogger a, #blogger a:hover, #blogger a:visited {
-    font-size: 1.5em;
-    color: black;
-}
-
-#facebook, #facebook a, #facebook a:hover, #facebook a:visited {
-    font-size: 2.05em;
+#facebook .fa {
     color: #3B5998;
 }
 
-#github, #github a, #github a:hover, #github a:visited {
-    font-size: 2.05em;
+#github .fa {
     color: black;
+}
+
+#stackoverflow div.img {
+    display: inline-block;
+    background-image: url("http://sstatic.net/stackexchange/img/logos/so/so-icon.png");
+    width: 3em;
+    height: 2em;
+    background-position: center;
+    background-size: cover;
+    margin: 0 -0.7em 0 -0.7em;
+}
+
+.fa {
+    font-size: 2em;
 }

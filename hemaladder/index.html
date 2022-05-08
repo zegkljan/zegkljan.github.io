@@ -19,7 +19,7 @@
         <q-layout view="hHh LpR lFf">
             <q-header>
                 <q-toolbar>
-                    <q-btn v-if="!drawer" flat @click="toggleDrawer" round dense icon="menu"></q-btn>
+                    <q-btn flat @click="toggleDrawer" round dense icon="menu"></q-btn>
                     <q-toolbar-title>
                         <router-view name="header" />
                     </q-toolbar-title>
@@ -51,6 +51,7 @@
                         <q-item clickable v-for="x in tournamentsOptions" :key="x"
                             :active="$route.params['tournaments'] === x" :to="routeTournaments(x)">
                             <q-item-section>{{ x == allFilter ? 'Všechny' : x }}</q-item-section>
+                            <q-tooltip v-if="x == allFilter">V datech jsou zatím pouze české turnaje.</q-tooltip>
                         </q-item>
                     </q-list>
                     <q-separator></q-separator>
@@ -64,6 +65,7 @@
                         <q-item clickable v-for="x in categoryOptions" :key="x"
                             :active="$route.params['category'] === x" :to="routeCategory(x)">
                             <q-item-section>{{ x }}</q-item-section>
+                            <q-tooltip v-if="x == 'LSW'">V datech zatím ženy nejsou.</q-tooltip>
                         </q-item>
                     </q-list>
                     <q-separator></q-separator>

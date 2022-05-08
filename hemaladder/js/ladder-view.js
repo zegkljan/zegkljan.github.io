@@ -7,6 +7,7 @@ export default {
     template: `
     <q-page>
         <q-table
+            ref="table"
             :loading="ladderLoading"
             :rows="ladder"
             :columns="columns"
@@ -26,12 +27,16 @@ export default {
                     >
                         {{ col.label }}
                     </q-th>
-                    <q-th  style="width: 1px; max-width: 1px"/>
+                    <q-th  style="width: 1px; max-width: 1px">
+                        <q-btn @click="toggleExpandAll()" size="sm" flat dense :icon="headerExpanded ? 'mdi-chevron-up' : 'mdi-chevron-down'">
+                            <q-tooltip>{{ headerExpanded ? 'Zabalit vše' : 'Rozbalit vše' }}</q-tooltip>
+                        </q-btn>
+                    </q-th>
                     <q-th style="padding: 0;"/>
                 </q-tr>
             </template>
             <template v-slot:body="props">
-                <q-tr :props="props" @click="props.expand = !props.expand" class="cursor-pointer">
+                <q-tr :props="props" @click="props.expand = !props.expand; headerExpanded = props.expand" class="cursor-pointer">
                     <q-td :style="[{padding: 0}, props.expand ? {'border-bottom': 'none'} : {}]"></q-td>
                     <q-td
                         v-for="col in props.cols"
@@ -42,7 +47,7 @@ export default {
                         {{ col.value }}
                     </q-td>
                     <q-td class="text-left" :style="[{width: '1px', 'max-width': '1px'}, props.expand ? {'border-bottom': 'none'} : {}]">
-                        <q-btn size="sm" flat dense @click.stop="props.expand = !props.expand" :icon="props.expand ? 'mdi-chevron-up' : 'mdi-chevron-down'" />
+                        <q-btn size="sm" flat dense @click.stop="props.expand = !props.expand; headerExpanded = props.expand" :icon="props.expand ? 'mdi-chevron-up' : 'mdi-chevron-down'" />
                     </q-td>
                     <q-td :style="[{padding: 0}, props.expand ? {'border-bottom': 'none'} : {}]"></q-td>
                 </q-tr>
@@ -56,27 +61,31 @@ export default {
                             </q-btn>
                             <thead>
                                 <tr>
-                                    <th colspan="6">
+                                    <th colspan="7">
                                         <div class="text-h6 q-ml-md">Účast na turnajích</div>
                                     </th>
                                 </tr>
                                 <tr>
-                                    <th>Turnaj</th>
-                                    <th>Datum</th>
-                                    <th>Země</th>
-                                    <th>Umístění</th>
-                                    <th>Koeficient</th>
-                                    <th>Počet bodů</th>
+                                    <th class="text-left">Turnaj</th>
+                                    <th class="text-center">Datum</th>
+                                    <th class="text-center">Země</th>
+                                    <th class="text-center">Umístění</th>
+                                    <th class="text-center">Koeficient</th>
+                                    <th class="text-center">Počet bodů</th>
+                                    <th class="text-center">Detail turnaje</th>
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr v-for="t in props.row.tournaments" :key="props.row.participantID + '-' + t.tournamentID">
-                                    <td>{{ t.tournament.name }}</td>
-                                    <td>{{ t.tournament.date }}</td>
-                                    <td>{{ t.tournament.country }}</td>
-                                    <td>{{ t.tournament.ranking.indexOf(props.row.participantID) + 1 }}</td>
-                                    <td>{{ t.tournament.coefficient }}</td>
-                                    <td>{{ t.points }}</td>
+                                    <td class="text-left">{{ t.tournament.name }}</td>
+                                    <td class="text-center">{{ t.tournament.date }}</td>
+                                    <td class="text-center">{{ t.tournament.country }}</td>
+                                    <td class="text-center">{{ t.tournament.ranking.indexOf(props.row.participantID) + 1 }}</td>
+                                    <td class="text-center">{{ t.tournament.coefficient }}</td>
+                                    <td class="text-center">{{ t.points }}</td>
+                                    <td class="text-center">
+                                        <q-btn v-if="t.tournamentID > 0" :href="'https://hemaratings.com/events/details/' + t.tournamentID" target="_blank" flat icon="mdi-open-in-new"></q-btn>
+                                    </td>
                                 </tr>
                             </tbody>
                         </q-markup-table>
@@ -84,12 +93,12 @@ export default {
                     <q-td colspan="100%">
                         <div class="row justify-center">
                             <div class="col col-md-auto">
-                                <q-item v-if="props.row.club" :href="'https://hemaratings.com/clubs/details/' + props.row.participant.club" target="_blank">
+                                <q-item v-if="props.row.club" v-bind="props.row.participant.club > 0 ? {href: 'https://hemaratings.com/clubs/details/' + props.row.participant.club} : {}" target="_blank">
                                     <q-item-section>
                                         <q-item-label>Klub</q-item-label>
                                         <q-item-label caption>{{ props.row.club.name }}</q-item-label>
                                     </q-item-section>
-                                    <q-item-section side>
+                                    <q-item-section v-if="props.row.participant.club > 0" side>
                                         <q-icon name="mdi-open-in-new"></q-icon>
                                     </q-item-section>
                                 </q-item>
@@ -119,7 +128,7 @@ export default {
                                     </q-item-section>
                                 </q-item>
                             </div>
-                            <div class="col col-md-auto">
+                            <div v-if="props.row.participantID > 0" class="col col-md-auto">
                                 <q-item :href="'https://hemaratings.com/fighters/details/' + props.row.participantID" target="_blank">
                                     <q-item-section>HEMA Ratings profil</q-item-section>
                                     <q-item-section side>
@@ -159,6 +168,7 @@ export default {
             categoryOptions: categoryOptions,
             ladderLoading: true,
             ladder: [],
+            headerExpanded: false,
             columns: [
                 {
                     name: 'rank',
@@ -213,8 +223,16 @@ export default {
                         return v
                     })
                     this.ladderLoading = false
-                    console.log(params['category'], params['tournaments'], params['people'])
+                    this.$refs.table.setExpanded([])
                 })
         },
+        toggleExpandAll() {
+            this.headerExpanded = !this.headerExpanded
+            let expanded = []
+            if (this.headerExpanded) {
+                expanded = this.ladder.map(row => row.participantID) 
+            }
+            this.$refs.table.setExpanded(expanded)
+        }
     }
 }

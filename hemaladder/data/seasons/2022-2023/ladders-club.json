@@ -1,0 +1,194 @@
+{
+  "ls": {
+    "mo": [
+      {
+        "points": 431,
+        "fencers": [
+          {
+            "fencer_id": "9598",
+            "points": 89
+          },
+          {
+            "fencer_id": "2090",
+            "points": 77
+          },
+          {
+            "fencer_id": "9349",
+            "points": 66
+          },
+          {
+            "fencer_id": "9348",
+            "points": 45
+          },
+          {
+            "fencer_id": "9270",
+            "points": 44
+          },
+          {
+            "fencer_id": "9272",
+            "points": 36
+          },
+          {
+            "fencer_id": "10136",
+            "points": 30
+          },
+          {
+            "fencer_id": "9350",
+            "points": 29
+          },
+          {
+            "fencer_id": "10349",
+            "points": 15
+          }
+        ],
+        "club_id": "786"
+      },
+      {
+        "points": 133,
+        "fencers": [
+          {
+            "fencer_id": "3624",
+            "points": 58
+          },
+          {
+            "fencer_id": "2140",
+            "points": 53
+          },
+          {
+            "fencer_id": "8755",
+            "points": 12
+          },
+          {
+            "fencer_id": "10131",
+            "points": 10
+          }
+        ],
+        "club_id": "790"
+      },
+      {
+        "points": 48,
+        "fencers": [
+          {
+            "fencer_id": "3631",
+            "points": 48
+          }
+        ],
+        "club_id": "362"
+      },
+      {
+        "points": 6,
+        "fencers": [
+          {
+            "fencer_id": "3626",
+            "points": 6
+          }
+        ],
+        "club_id": "290"
+      }
+    ]
+  },
+  "sab": {
+    "mo": [
+      {
+        "points": 33,
+        "fencers": [
+          {
+            "fencer_id": "3626",
+            "points": 19
+          },
+          {
+            "fencer_id": "7837",
+            "points": 14
+          }
+        ],
+        "club_id": "290"
+      },
+      {
+        "points": 11,
+        "fencers": [
+          {
+            "fencer_id": "9598",
+            "points": 11
+          }
+        ],
+        "club_id": "786"
+      }
+    ]
+  },
+  "rd": {
+    "mo": [
+      {
+        "points": 29,
+        "fencers": [
+          {
+            "fencer_id": "9598",
+            "points": 29
+          }
+        ],
+        "club_id": "786"
+      },
+      {
+        "points": 24,
+        "fencers": [
+          {
+            "fencer_id": "3631",
+            "points": 24
+          }
+        ],
+        "club_id": "362"
+      },
+      {
+        "points": 17,
+        "fencers": [
+          {
+            "fencer_id": "7837",
+            "points": 11
+          },
+          {
+            "fencer_id": "3626",
+            "points": 6
+          }
+        ],
+        "club_id": "290"
+      }
+    ]
+  },
+  "sb": {
+    "mo": [
+      {
+        "points": 9,
+        "fencers": [
+          {
+            "fencer_id": "9598",
+            "points": 9
+          }
+        ],
+        "club_id": "786"
+      },
+      {
+        "points": 9,
+        "fencers": [
+          {
+            "fencer_id": "3631",
+            "points": 9
+          }
+        ],
+        "club_id": "362"
+      },
+      {
+        "points": 2,
+        "fencers": [
+          {
+            "fencer_id": "3626",
+            "points": 1
+          },
+          {
+            "fencer_id": "7837",
+            "points": 1
+          }
+        ],
+        "club_id": "290"
+      }
+    ]
+  }
+}

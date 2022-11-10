@@ -1,4 +1,4 @@
-import{D as e,C as i,V as n,a,b as r}from"./index.54c3a90d.js";import{c as s}from"./vue-i18n.esm-bundler.6485a19a.js";var u={appName:"Unofficial czech HEMA ladder",sourceCode:"Source code",ladderOnFacebook:"Facebook page",addResults:{buttonLabel:"Supply results",title:"How to supply results?",main:`If the ladder does not include results of a tournament you
+import{D as e,C as i,V as n,a,b as r}from"./index.c7fafeb7.js";import{c as s}from"./vue-i18n.esm-bundler.e1b34e56.js";var u={appName:"Unofficial czech HEMA ladder",sourceCode:"Source code",ladderOnFacebook:"Facebook page",addResults:{buttonLabel:"Supply results",title:"How to supply results?",main:`If the ladder does not include results of a tournament you
     attended, please let me know like this:
     <ol>
       <li>

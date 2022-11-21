@@ -32,16 +32,29 @@ a {
     margin-left: 0.2em;
 }
 
-#twitter .fa {
+#twitter .fab {
     color: #55acee;
+    font-size: 1.75em;
 }
 
-#facebook .fa {
+#mastodon .fab {
+    color: #595aff;
+    font-size: 1.75em;
+}
+
+#instagram .fab {
+    color: #E1306C;
+    font-size: 1.75em;
+}
+
+#facebook .fab {
     color: #3B5998;
+    font-size: 1.75em;
 }
 
-#github .fa {
+#github .fab {
     color: black;
+    font-size: 1.75em;
 }
 
 #stackoverflow div.img {

@@ -258,14 +258,17 @@
         "club_id": "983"
       },
       {
-        "points": 145,
+        "points": 165,
         "fencers": [
           {
             "fencer_id": "7298",
             "points": 145
+          },
+          {
+            "fencer_id": "-1",
+            "points": 20
           }
-        ],
-        "club_id": "903"
+        ]
       },
       {
         "points": 192,
@@ -414,15 +417,6 @@
           }
         ],
         "club_id": "1157"
-      },
-      {
-        "points": 20,
-        "fencers": [
-          {
-            "fencer_id": "-1",
-            "points": 20
-          }
-        ]
       },
       {
         "points": 9,

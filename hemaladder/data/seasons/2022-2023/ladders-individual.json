@@ -3177,8 +3177,43 @@
         "last_season_rank": 29
       },
       {
-        "fencer_id": "11074",
+        "fencer_id": "9600",
         "rank": 38,
+        "points": 80,
+        "tournaments": [
+          {
+            "tournament_id": "-17",
+            "base_points": 31,
+            "rank": 32,
+            "points": 31,
+            "coefficients": [
+              {
+                "c": 1,
+                "type": "tournament"
+              }
+            ]
+          },
+          {
+            "tournament_id": "-18",
+            "base_points": 39,
+            "rank": 27,
+            "points": 49,
+            "coefficients": [
+              {
+                "c": 1,
+                "type": "tournament"
+              },
+              {
+                "c": 1.25,
+                "type": "foreign"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "fencer_id": "11074",
+        "rank": 39,
         "points": 77,
         "tournaments": [
           {
@@ -3221,7 +3256,7 @@
       },
       {
         "fencer_id": "9339",
-        "rank": 39,
+        "rank": 40,
         "points": 75,
         "tournaments": [
           {
@@ -3305,7 +3340,7 @@
       },
       {
         "fencer_id": "7308",
-        "rank": 40,
+        "rank": 41,
         "points": 74,
         "tournaments": [
           {
@@ -3341,7 +3376,7 @@
       },
       {
         "fencer_id": "9635",
-        "rank": 41,
+        "rank": 42,
         "points": 70,
         "tournaments": [
           {
@@ -3377,7 +3412,7 @@
       },
       {
         "fencer_id": "3626",
-        "rank": 42,
+        "rank": 43,
         "points": 70,
         "tournaments": [
           {
@@ -3441,7 +3476,7 @@
       },
       {
         "fencer_id": "1471",
-        "rank": 43,
+        "rank": 44,
         "points": 65,
         "tournaments": [
           {
@@ -3465,7 +3500,7 @@
       },
       {
         "fencer_id": "10053",
-        "rank": 44,
+        "rank": 45,
         "points": 64,
         "tournaments": [
           {
@@ -3545,7 +3580,7 @@
       },
       {
         "fencer_id": "9639",
-        "rank": 45,
+        "rank": 46,
         "points": 64,
         "tournaments": [
           {
@@ -3589,7 +3624,7 @@
       },
       {
         "fencer_id": "8905",
-        "rank": 46,
+        "rank": 47,
         "points": 63,
         "tournaments": [
           {
@@ -3649,7 +3684,7 @@
       },
       {
         "fencer_id": "1482",
-        "rank": 47,
+        "rank": 48,
         "points": 56,
         "tournaments": [
           {
@@ -3668,7 +3703,7 @@
       },
       {
         "fencer_id": "11069",
-        "rank": 48,
+        "rank": 49,
         "points": 53,
         "tournaments": [
           {
@@ -3723,7 +3758,7 @@
       },
       {
         "fencer_id": "6601",
-        "rank": 49,
+        "rank": 50,
         "points": 51,
         "tournaments": [
           {
@@ -3755,7 +3790,7 @@
       },
       {
         "fencer_id": "-34",
-        "rank": 50,
+        "rank": 51,
         "points": 51,
         "tournaments": [
           {
@@ -3790,7 +3825,7 @@
       },
       {
         "fencer_id": "6753",
-        "rank": 51,
+        "rank": 52,
         "points": 49,
         "tournaments": [
           {
@@ -3822,7 +3857,7 @@
       },
       {
         "fencer_id": "1488",
-        "rank": 52,
+        "rank": 53,
         "points": 48,
         "tournaments": [
           {
@@ -3854,7 +3889,7 @@
       },
       {
         "fencer_id": "11070",
-        "rank": 53,
+        "rank": 54,
         "points": 45,
         "tournaments": [
           {
@@ -3897,7 +3932,7 @@
       },
       {
         "fencer_id": "-39",
-        "rank": 54,
+        "rank": 55,
         "points": 44,
         "tournaments": [
           {
@@ -3920,7 +3955,7 @@
       },
       {
         "fencer_id": "8903",
-        "rank": 55,
+        "rank": 56,
         "points": 44,
         "tournaments": [
           {
@@ -3964,7 +3999,7 @@
       },
       {
         "fencer_id": "2039",
-        "rank": 56,
+        "rank": 57,
         "points": 41,
         "tournaments": [
           {
@@ -3999,7 +4034,7 @@
       },
       {
         "fencer_id": "11071",
-        "rank": 57,
+        "rank": 58,
         "points": 40,
         "tournaments": [
           {
@@ -4043,7 +4078,7 @@
       },
       {
         "fencer_id": "11157",
-        "rank": 58,
+        "rank": 59,
         "points": 40,
         "tournaments": [
           {
@@ -4090,7 +4125,7 @@
       },
       {
         "fencer_id": "11282",
-        "rank": 59,
+        "rank": 60,
         "points": 39,
         "tournaments": [
           {
@@ -4121,7 +4156,7 @@
       },
       {
         "fencer_id": "9105",
-        "rank": 60,
+        "rank": 61,
         "points": 38,
         "tournaments": [
           {
@@ -4153,7 +4188,7 @@
       },
       {
         "fencer_id": "6597",
-        "rank": 61,
+        "rank": 62,
         "points": 37,
         "tournaments": [
           {
@@ -4197,7 +4232,7 @@
       },
       {
         "fencer_id": "10054",
-        "rank": 62,
+        "rank": 63,
         "points": 35,
         "tournaments": [
           {
@@ -4233,7 +4268,7 @@
       },
       {
         "fencer_id": "10391",
-        "rank": 63,
+        "rank": 64,
         "points": 35,
         "tournaments": [
           {
@@ -4265,7 +4300,7 @@
       },
       {
         "fencer_id": "1480",
-        "rank": 64,
+        "rank": 65,
         "points": 33,
         "tournaments": [
           {
@@ -4284,7 +4319,7 @@
       },
       {
         "fencer_id": "-40",
-        "rank": 65,
+        "rank": 66,
         "points": 32,
         "tournaments": [
           {
@@ -4307,7 +4342,7 @@
       },
       {
         "fencer_id": "2041",
-        "rank": 66,
+        "rank": 67,
         "points": 31,
         "tournaments": [
           {
@@ -4339,25 +4374,6 @@
             "base_points": 19,
             "rank": 44,
             "points": 19,
-            "coefficients": [
-              {
-                "c": 1,
-                "type": "tournament"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "fencer_id": "9600",
-        "rank": 67,
-        "points": 31,
-        "tournaments": [
-          {
-            "tournament_id": "-17",
-            "base_points": 31,
-            "rank": 32,
-            "points": 31,
             "coefficients": [
               {
                 "c": 1,
@@ -5711,8 +5727,52 @@
         ]
       },
       {
-        "fencer_id": "11162",
+        "fencer_id": "9600",
         "rank": 6,
+        "points": 23,
+        "tournaments": [
+          {
+            "tournament_id": "-17",
+            "base_points": 9,
+            "rank": 2,
+            "points": 12,
+            "coefficients": [
+              {
+                "c": 1,
+                "type": "tournament"
+              },
+              {
+                "c": 1.33,
+                "type": "rank_2"
+              }
+            ]
+          },
+          {
+            "tournament_id": "-18",
+            "base_points": 6,
+            "rank": 1,
+            "points": 11,
+            "coefficients": [
+              {
+                "c": 1,
+                "type": "tournament"
+              },
+              {
+                "c": 1.5,
+                "type": "rank_1"
+              },
+              {
+                "c": 1.25,
+                "type": "foreign"
+              }
+            ]
+          }
+        ],
+        "last_season_rank": 3
+      },
+      {
+        "fencer_id": "11162",
+        "rank": 7,
         "points": 14,
         "tournaments": [
           {
@@ -5756,30 +5816,6 @@
             ]
           }
         ]
-      },
-      {
-        "fencer_id": "9600",
-        "rank": 7,
-        "points": 12,
-        "tournaments": [
-          {
-            "tournament_id": "-17",
-            "base_points": 9,
-            "rank": 2,
-            "points": 12,
-            "coefficients": [
-              {
-                "c": 1,
-                "type": "tournament"
-              },
-              {
-                "c": 1.33,
-                "type": "rank_2"
-              }
-            ]
-          }
-        ],
-        "last_season_rank": 3
       },
       {
         "fencer_id": "11064",

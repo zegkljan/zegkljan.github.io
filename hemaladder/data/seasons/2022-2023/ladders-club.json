@@ -2,53 +2,19 @@
   "ls": {
     "mo": [
       {
-        "points": 953,
-        "fencers": [
-          {
-            "fencer_id": "3631",
-            "points": 597
-          },
-          {
-            "fencer_id": "6755",
-            "points": 143
-          },
-          {
-            "fencer_id": "9596",
-            "points": 91
-          },
-          {
-            "fencer_id": "8905",
-            "points": 63
-          },
-          {
-            "fencer_id": "11282",
-            "points": 39
-          },
-          {
-            "fencer_id": "-35",
-            "points": 14
-          },
-          {
-            "fencer_id": "11284",
-            "points": 6
-          }
-        ],
-        "club_id": "362"
-      },
-      {
-        "points": 1246,
+        "points": 1381,
         "fencers": [
           {
             "fencer_id": "5822",
-            "points": 587
+            "points": 642
           },
           {
             "fencer_id": "9271",
-            "points": 261
+            "points": 288
           },
           {
             "fencer_id": "1512",
-            "points": 141
+            "points": 186
           },
           {
             "fencer_id": "9339",
@@ -72,7 +38,7 @@
           },
           {
             "fencer_id": "11278",
-            "points": 7
+            "points": 15
           },
           {
             "fencer_id": "4783",
@@ -82,7 +48,45 @@
         "club_id": "288"
       },
       {
-        "points": 1136,
+        "points": 1031,
+        "fencers": [
+          {
+            "fencer_id": "3631",
+            "points": 631
+          },
+          {
+            "fencer_id": "6755",
+            "points": 143
+          },
+          {
+            "fencer_id": "9596",
+            "points": 104
+          },
+          {
+            "fencer_id": "8905",
+            "points": 63
+          },
+          {
+            "fencer_id": "11282",
+            "points": 39
+          },
+          {
+            "fencer_id": "10134",
+            "points": 31
+          },
+          {
+            "fencer_id": "-35",
+            "points": 14
+          },
+          {
+            "fencer_id": "11284",
+            "points": 6
+          }
+        ],
+        "club_id": "362"
+      },
+      {
+        "points": 1174,
         "fencers": [
           {
             "fencer_id": "2140",
@@ -90,7 +94,7 @@
           },
           {
             "fencer_id": "3624",
-            "points": 323
+            "points": 361
           },
           {
             "fencer_id": "9352",
@@ -108,7 +112,25 @@
         "club_id": "790"
       },
       {
-        "points": 2345,
+        "points": 583,
+        "fencers": [
+          {
+            "fencer_id": "8907",
+            "points": 432
+          },
+          {
+            "fencer_id": "9338",
+            "points": 81
+          },
+          {
+            "fencer_id": "9635",
+            "points": 70
+          }
+        ],
+        "club_id": "983"
+      },
+      {
+        "points": 2480,
         "fencers": [
           {
             "fencer_id": "2090",
@@ -127,12 +149,12 @@
             "points": 266
           },
           {
-            "fencer_id": "10349",
-            "points": 201
+            "fencer_id": "9270",
+            "points": 212
           },
           {
-            "fencer_id": "9270",
-            "points": 152
+            "fencer_id": "10349",
+            "points": 201
           },
           {
             "fencer_id": "10392",
@@ -143,16 +165,16 @@
             "points": 135
           },
           {
+            "fencer_id": "10054",
+            "points": 110
+          },
+          {
             "fencer_id": "10346",
             "points": 101
           },
           {
             "fencer_id": "9272",
             "points": 95
-          },
-          {
-            "fencer_id": "10054",
-            "points": 35
           },
           {
             "fencer_id": "10391",
@@ -174,29 +196,11 @@
         "club_id": "786"
       },
       {
-        "points": 550,
-        "fencers": [
-          {
-            "fencer_id": "8907",
-            "points": 399
-          },
-          {
-            "fencer_id": "9338",
-            "points": 81
-          },
-          {
-            "fencer_id": "9635",
-            "points": 70
-          }
-        ],
-        "club_id": "983"
-      },
-      {
-        "points": 499,
+        "points": 539,
         "fencers": [
           {
             "fencer_id": "9598",
-            "points": 356
+            "points": 396
           },
           {
             "fencer_id": "3626",
@@ -239,43 +243,43 @@
         ]
       },
       {
-        "points": 824,
+        "points": 951,
         "fencers": [
           {
             "fencer_id": "11158",
-            "points": 211
+            "points": 252
+          },
+          {
+            "fencer_id": "10057",
+            "points": 167
           },
           {
             "fencer_id": "5576",
             "points": 154
           },
           {
-            "fencer_id": "10057",
-            "points": 124
-          },
-          {
             "fencer_id": "10058",
-            "points": 87
+            "points": 92
           },
           {
             "fencer_id": "7308",
             "points": 74
           },
           {
-            "fencer_id": "-34",
-            "points": 51
+            "fencer_id": "11286",
+            "points": 68
           },
           {
-            "fencer_id": "-39",
-            "points": 44
+            "fencer_id": "11298",
+            "points": 55
           },
           {
             "fencer_id": "11157",
             "points": 40
           },
           {
-            "fencer_id": "-22",
-            "points": 29
+            "fencer_id": "11308",
+            "points": 39
           },
           {
             "fencer_id": "11162",
@@ -369,65 +373,11 @@
         "club_id": "1157"
       },
       {
-        "points": 518,
-        "fencers": [
-          {
-            "fencer_id": "1478",
-            "points": 117
-          },
-          {
-            "fencer_id": "10202",
-            "points": 85
-          },
-          {
-            "fencer_id": "11074",
-            "points": 77
-          },
-          {
-            "fencer_id": "1482",
-            "points": 56
-          },
-          {
-            "fencer_id": "11069",
-            "points": 53
-          },
-          {
-            "fencer_id": "2039",
-            "points": 41
-          },
-          {
-            "fencer_id": "1480",
-            "points": 33
-          },
-          {
-            "fencer_id": "11072",
-            "points": 24
-          },
-          {
-            "fencer_id": "11073",
-            "points": 13
-          },
-          {
-            "fencer_id": "11064",
-            "points": 8
-          },
-          {
-            "fencer_id": "11034",
-            "points": 8
-          },
-          {
-            "fencer_id": "11285",
-            "points": 3
-          }
-        ],
-        "club_id": "285"
-      },
-      {
-        "points": 275,
+        "points": 295,
         "fencers": [
           {
             "fencer_id": "6598",
-            "points": 101
+            "points": 121
           },
           {
             "fencer_id": "10053",
@@ -453,7 +403,61 @@
         "club_id": "1171"
       },
       {
-        "points": 206,
+        "points": 556,
+        "fencers": [
+          {
+            "fencer_id": "1478",
+            "points": 117
+          },
+          {
+            "fencer_id": "10202",
+            "points": 101
+          },
+          {
+            "fencer_id": "11074",
+            "points": 77
+          },
+          {
+            "fencer_id": "1482",
+            "points": 56
+          },
+          {
+            "fencer_id": "11069",
+            "points": 53
+          },
+          {
+            "fencer_id": "2039",
+            "points": 41
+          },
+          {
+            "fencer_id": "11073",
+            "points": 35
+          },
+          {
+            "fencer_id": "1480",
+            "points": 33
+          },
+          {
+            "fencer_id": "11072",
+            "points": 24
+          },
+          {
+            "fencer_id": "11064",
+            "points": 8
+          },
+          {
+            "fencer_id": "11034",
+            "points": 8
+          },
+          {
+            "fencer_id": "11285",
+            "points": 3
+          }
+        ],
+        "club_id": "285"
+      },
+      {
+        "points": 234,
         "fencers": [
           {
             "fencer_id": "9600",
@@ -461,7 +465,7 @@
           },
           {
             "fencer_id": "10348",
-            "points": 28
+            "points": 46
           },
           {
             "fencer_id": "5826",
@@ -482,9 +486,23 @@
           {
             "fencer_id": "-26",
             "points": 11
+          },
+          {
+            "fencer_id": "9355",
+            "points": 10
           }
         ],
         "club_id": "393"
+      },
+      {
+        "points": 65,
+        "fencers": [
+          {
+            "fencer_id": "7831",
+            "points": 65
+          }
+        ],
+        "club_id": "985"
       },
       {
         "points": 45,
@@ -497,6 +515,20 @@
         "club_id": "286"
       },
       {
+        "points": 60,
+        "fencers": [
+          {
+            "fencer_id": "7991",
+            "points": 34
+          },
+          {
+            "fencer_id": "-43",
+            "points": 26
+          }
+        ],
+        "club_id": "1357"
+      },
+      {
         "points": 31,
         "fencers": [
           {
@@ -507,18 +539,12 @@
         "club_id": "-4"
       },
       {
-        "points": 28,
+        "points": 46,
         "fencers": [
           {
-            "fencer_id": "7991",
-            "points": 28
-          }
-        ],
-        "club_id": "1357"
-      },
-      {
-        "points": 27,
-        "fencers": [
+            "fencer_id": "11060",
+            "points": 20
+          },
           {
             "fencer_id": "11058",
             "points": 14
@@ -526,10 +552,6 @@
           {
             "fencer_id": "11059",
             "points": 12
-          },
-          {
-            "fencer_id": "11060",
-            "points": 1
           }
         ],
         "club_id": "446"
@@ -557,7 +579,7 @@
         "club_id": "288"
       },
       {
-        "points": 66,
+        "points": 78,
         "fencers": [
           {
             "fencer_id": "1478",
@@ -565,51 +587,55 @@
           },
           {
             "fencer_id": "11064",
-            "points": 9
+            "points": 21
           }
         ],
         "club_id": "285"
       },
       {
-        "points": 47,
+        "points": 57,
         "fencers": [
           {
             "fencer_id": "11065",
-            "points": 33
+            "points": 41
           },
           {
             "fencer_id": "11162",
-            "points": 14
+            "points": 16
           }
         ],
         "club_id": "655"
       },
       {
-        "points": 25,
-        "fencers": [
-          {
-            "fencer_id": "9603",
-            "points": 25
-          }
-        ],
-        "club_id": "362"
-      },
-      {
-        "points": 24,
+        "points": 31,
         "fencers": [
           {
             "fencer_id": "11060",
-            "points": 24
+            "points": 31
           }
         ],
         "club_id": "446"
       },
       {
-        "points": 23,
+        "points": 29,
+        "fencers": [
+          {
+            "fencer_id": "9603",
+            "points": 29
+          }
+        ],
+        "club_id": "362"
+      },
+      {
+        "points": 43,
         "fencers": [
           {
             "fencer_id": "9600",
             "points": 23
+          },
+          {
+            "fencer_id": "7828",
+            "points": 20
           }
         ],
         "club_id": "393"

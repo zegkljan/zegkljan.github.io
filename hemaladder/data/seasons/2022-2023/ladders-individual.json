@@ -71,7 +71,7 @@
             ]
           },
           {
-            "tournament_id": "-11",
+            "tournament_id": "1794",
             "base_points": 52,
             "rank": 25,
             "points": 65,
@@ -299,7 +299,7 @@
             ]
           },
           {
-            "tournament_id": "-11",
+            "tournament_id": "1794",
             "base_points": 65,
             "rank": 12,
             "points": 81,
@@ -487,7 +487,7 @@
             ]
           },
           {
-            "tournament_id": "-11",
+            "tournament_id": "1794",
             "base_points": 62,
             "rank": 15,
             "points": 78,
@@ -1019,7 +1019,7 @@
             ]
           },
           {
-            "tournament_id": "-11",
+            "tournament_id": "1794",
             "base_points": 41,
             "rank": 36,
             "points": 51,
@@ -1215,7 +1215,7 @@
             ]
           },
           {
-            "tournament_id": "-8",
+            "tournament_id": "1796",
             "base_points": 27,
             "rank": 1,
             "points": 40,
@@ -1543,7 +1543,7 @@
             ]
           },
           {
-            "tournament_id": "-8",
+            "tournament_id": "1796",
             "base_points": 13,
             "rank": 15,
             "points": 13,
@@ -2046,7 +2046,7 @@
             ]
           },
           {
-            "tournament_id": "-8",
+            "tournament_id": "1796",
             "base_points": 24,
             "rank": 4,
             "points": 28,
@@ -2194,7 +2194,7 @@
             ]
           },
           {
-            "tournament_id": "-8",
+            "tournament_id": "1796",
             "base_points": 12,
             "rank": 16,
             "points": 12,
@@ -2386,7 +2386,7 @@
             ]
           },
           {
-            "tournament_id": "-8",
+            "tournament_id": "1796",
             "base_points": 23,
             "rank": 5,
             "points": 23,
@@ -2794,7 +2794,7 @@
             ]
           },
           {
-            "tournament_id": "-8",
+            "tournament_id": "1796",
             "base_points": 22,
             "rank": 6,
             "points": 22,
@@ -2966,7 +2966,7 @@
             ]
           },
           {
-            "tournament_id": "-8",
+            "tournament_id": "1796",
             "base_points": 5,
             "rank": 23,
             "points": 5,
@@ -4357,7 +4357,7 @@
             ]
           },
           {
-            "tournament_id": "-8",
+            "tournament_id": "1796",
             "base_points": 1,
             "rank": 27,
             "points": 1,
@@ -4503,7 +4503,7 @@
         "points": 64,
         "tournaments": [
           {
-            "tournament_id": "-8",
+            "tournament_id": "1796",
             "base_points": 15,
             "rank": 13,
             "points": 15,
@@ -4845,7 +4845,7 @@
         "points": 47,
         "tournaments": [
           {
-            "tournament_id": "-8",
+            "tournament_id": "1796",
             "base_points": 20,
             "rank": 8,
             "points": 20,
@@ -5077,7 +5077,7 @@
         "points": 41,
         "tournaments": [
           {
-            "tournament_id": "-8",
+            "tournament_id": "1796",
             "base_points": 18,
             "rank": 10,
             "points": 18,
@@ -5176,7 +5176,7 @@
             ]
           },
           {
-            "tournament_id": "-8",
+            "tournament_id": "1796",
             "base_points": 9,
             "rank": 19,
             "points": 9,
@@ -5400,7 +5400,7 @@
         "points": 32,
         "tournaments": [
           {
-            "tournament_id": "-8",
+            "tournament_id": "1796",
             "base_points": 11,
             "rank": 17,
             "points": 11,
@@ -5758,7 +5758,7 @@
         "points": 19,
         "tournaments": [
           {
-            "tournament_id": "-8",
+            "tournament_id": "1796",
             "base_points": 19,
             "rank": 9,
             "points": 19,
@@ -5852,7 +5852,7 @@
         "points": 17,
         "tournaments": [
           {
-            "tournament_id": "-8",
+            "tournament_id": "1796",
             "base_points": 17,
             "rank": 11,
             "points": 17,
@@ -6080,7 +6080,7 @@
         "points": 10,
         "tournaments": [
           {
-            "tournament_id": "-8",
+            "tournament_id": "1796",
             "base_points": 2,
             "rank": 26,
             "points": 2,
@@ -6346,7 +6346,7 @@
         "points": 3,
         "tournaments": [
           {
-            "tournament_id": "-8",
+            "tournament_id": "1796",
             "base_points": 3,
             "rank": 25,
             "points": 3,
@@ -8442,7 +8442,7 @@
             ]
           },
           {
-            "tournament_id": "-11",
+            "tournament_id": "1794",
             "base_points": 16,
             "rank": 13,
             "points": 20,
@@ -8481,7 +8481,7 @@
         "points": 54,
         "tournaments": [
           {
-            "tournament_id": "-11",
+            "tournament_id": "1794",
             "base_points": 22,
             "rank": 7,
             "points": 28,
@@ -9286,7 +9286,7 @@
             ]
           },
           {
-            "tournament_id": "-11",
+            "tournament_id": "1794",
             "base_points": 23,
             "rank": 9,
             "points": 29,
@@ -9309,7 +9309,7 @@
         "points": 32,
         "tournaments": [
           {
-            "tournament_id": "-11",
+            "tournament_id": "1794",
             "base_points": 26,
             "rank": 6,
             "points": 32,
@@ -9378,7 +9378,7 @@
         "points": 21,
         "tournaments": [
           {
-            "tournament_id": "-11",
+            "tournament_id": "1794",
             "base_points": 17,
             "rank": 15,
             "points": 21,
@@ -9424,7 +9424,7 @@
         "points": 18,
         "tournaments": [
           {
-            "tournament_id": "-11",
+            "tournament_id": "1794",
             "base_points": 14,
             "rank": 18,
             "points": 18,
@@ -9466,7 +9466,7 @@
         "points": 14,
         "tournaments": [
           {
-            "tournament_id": "-11",
+            "tournament_id": "1794",
             "base_points": 11,
             "rank": 21,
             "points": 14,

@@ -8,6 +8,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1739",
+            "competition_idx": 0,
             "base_points": 49,
             "rank": 12,
             "points": 61,
@@ -20,6 +21,7 @@
           },
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 45,
             "rank": 1,
             "points": 68,
@@ -32,6 +34,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 81,
             "rank": 3,
             "points": 101,
@@ -44,6 +47,7 @@
           },
           {
             "tournament_id": "-9",
+            "competition_idx": 0,
             "base_points": 25,
             "rank": 2,
             "points": 33,
@@ -56,6 +60,7 @@
           },
           {
             "tournament_id": "1794",
+            "competition_idx": 0,
             "base_points": 52,
             "rank": 25,
             "points": 65,
@@ -68,6 +73,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 37,
             "rank": 6,
             "points": 37,
@@ -75,6 +81,7 @@
           },
           {
             "tournament_id": "-13",
+            "competition_idx": 0,
             "base_points": 45,
             "rank": 5,
             "points": 56,
@@ -87,6 +94,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 0,
             "base_points": 45,
             "rank": 26,
             "points": 56,
@@ -99,6 +107,7 @@
           },
           {
             "tournament_id": "-15",
+            "competition_idx": 0,
             "base_points": 14,
             "rank": 2,
             "points": 19,
@@ -111,6 +120,7 @@
           },
           {
             "tournament_id": "1775",
+            "competition_idx": 0,
             "base_points": 25,
             "rank": 1,
             "points": 38,
@@ -123,6 +133,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 53,
             "rank": 10,
             "points": 53,
@@ -130,6 +141,7 @@
           },
           {
             "tournament_id": "1813",
+            "competition_idx": 0,
             "base_points": 47,
             "rank": 4,
             "points": 55,
@@ -142,6 +154,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 47,
             "rank": 1,
             "points": 106,
@@ -167,6 +180,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1726",
+            "competition_idx": 1,
             "base_points": 29,
             "rank": 2,
             "points": 48,
@@ -183,6 +197,7 @@
           },
           {
             "tournament_id": "1739",
+            "competition_idx": 0,
             "base_points": 36,
             "rank": 25,
             "points": 45,
@@ -195,6 +210,7 @@
           },
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 43,
             "rank": 3,
             "points": 54,
@@ -207,6 +223,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 82,
             "rank": 2,
             "points": 109,
@@ -219,6 +236,7 @@
           },
           {
             "tournament_id": "-9",
+            "competition_idx": 0,
             "base_points": 23,
             "rank": 4,
             "points": 27,
@@ -231,6 +249,7 @@
           },
           {
             "tournament_id": "1794",
+            "competition_idx": 0,
             "base_points": 65,
             "rank": 12,
             "points": 81,
@@ -243,6 +262,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 40,
             "rank": 3,
             "points": 50,
@@ -255,6 +275,7 @@
           },
           {
             "tournament_id": "-13",
+            "competition_idx": 0,
             "base_points": 30,
             "rank": 20,
             "points": 38,
@@ -267,6 +288,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 0,
             "base_points": 66,
             "rank": 5,
             "points": 82,
@@ -279,6 +301,7 @@
           },
           {
             "tournament_id": "-15",
+            "competition_idx": 0,
             "base_points": 12,
             "rank": 4,
             "points": 14,
@@ -291,6 +314,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 49,
             "rank": 14,
             "points": 49,
@@ -298,6 +322,7 @@
           },
           {
             "tournament_id": "1813",
+            "competition_idx": 0,
             "base_points": 34,
             "rank": 17,
             "points": 34,
@@ -305,6 +330,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 26,
             "rank": 22,
             "points": 39,
@@ -326,6 +352,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1768",
+            "competition_idx": 0,
             "base_points": 34,
             "rank": 3,
             "points": 53,
@@ -342,6 +369,7 @@
           },
           {
             "tournament_id": "1739",
+            "competition_idx": 0,
             "base_points": 56,
             "rank": 5,
             "points": 70,
@@ -354,6 +382,7 @@
           },
           {
             "tournament_id": "1757",
+            "competition_idx": 0,
             "base_points": 17,
             "rank": 2,
             "points": 23,
@@ -366,6 +395,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 66,
             "rank": 18,
             "points": 66,
@@ -373,6 +403,7 @@
           },
           {
             "tournament_id": "1794",
+            "competition_idx": 0,
             "base_points": 62,
             "rank": 15,
             "points": 78,
@@ -385,6 +416,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 0,
             "base_points": 53,
             "rank": 18,
             "points": 66,
@@ -397,6 +429,7 @@
           },
           {
             "tournament_id": "-15",
+            "competition_idx": 0,
             "base_points": 15,
             "rank": 1,
             "points": 22,
@@ -409,6 +442,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 61,
             "rank": 2,
             "points": 81,
@@ -421,6 +455,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 44,
             "rank": 4,
             "points": 77,
@@ -446,6 +481,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 39,
             "rank": 7,
             "points": 39,
@@ -453,6 +489,7 @@
           },
           {
             "tournament_id": "1757",
+            "competition_idx": 0,
             "base_points": 16,
             "rank": 3,
             "points": 20,
@@ -465,6 +502,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 77,
             "rank": 7,
             "points": 77,
@@ -472,6 +510,7 @@
           },
           {
             "tournament_id": "-9",
+            "competition_idx": 0,
             "base_points": 20,
             "rank": 7,
             "points": 20,
@@ -479,6 +518,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 36,
             "rank": 7,
             "points": 36,
@@ -486,6 +526,7 @@
           },
           {
             "tournament_id": "-13",
+            "competition_idx": 0,
             "base_points": 39,
             "rank": 11,
             "points": 49,
@@ -498,6 +539,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 0,
             "base_points": 54,
             "rank": 17,
             "points": 68,
@@ -510,6 +552,7 @@
           },
           {
             "tournament_id": "-15",
+            "competition_idx": 0,
             "base_points": 7,
             "rank": 9,
             "points": 7,
@@ -517,6 +560,7 @@
           },
           {
             "tournament_id": "1775",
+            "competition_idx": 0,
             "base_points": 23,
             "rank": 3,
             "points": 29,
@@ -529,6 +573,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 54,
             "rank": 9,
             "points": 54,
@@ -536,6 +581,7 @@
           },
           {
             "tournament_id": "1813",
+            "competition_idx": 0,
             "base_points": 33,
             "rank": 18,
             "points": 33,
@@ -543,6 +589,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 41,
             "rank": 7,
             "points": 62,
@@ -564,6 +611,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1725",
+            "competition_idx": 0,
             "base_points": 41,
             "rank": 1,
             "points": 77,
@@ -580,6 +628,7 @@
           },
           {
             "tournament_id": "1739",
+            "competition_idx": 0,
             "base_points": 59,
             "rank": 2,
             "points": 98,
@@ -596,6 +645,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 73,
             "rank": 11,
             "points": 73,
@@ -603,6 +653,7 @@
           },
           {
             "tournament_id": "-9",
+            "competition_idx": 0,
             "base_points": 26,
             "rank": 1,
             "points": 39,
@@ -615,6 +666,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 0,
             "base_points": 70,
             "rank": 1,
             "points": 131,
@@ -631,6 +683,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 43,
             "rank": 5,
             "points": 64,
@@ -652,6 +705,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1725",
+            "competition_idx": 0,
             "base_points": 40,
             "rank": 2,
             "points": 66,
@@ -668,6 +722,7 @@
           },
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 37,
             "rank": 9,
             "points": 37,
@@ -675,6 +730,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 72,
             "rank": 12,
             "points": 72,
@@ -682,6 +738,7 @@
           },
           {
             "tournament_id": "-9",
+            "competition_idx": 0,
             "base_points": 24,
             "rank": 3,
             "points": 30,
@@ -694,6 +751,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 41,
             "rank": 2,
             "points": 55,
@@ -706,6 +764,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 0,
             "base_points": 52,
             "rank": 19,
             "points": 65,
@@ -718,6 +777,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 58,
             "rank": 5,
             "points": 58,
@@ -725,6 +785,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 39,
             "rank": 9,
             "points": 58,
@@ -746,6 +807,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1768",
+            "competition_idx": 0,
             "base_points": 35,
             "rank": 2,
             "points": 58,
@@ -762,6 +824,7 @@
           },
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 27,
             "rank": 19,
             "points": 27,
@@ -769,6 +832,7 @@
           },
           {
             "tournament_id": "1757",
+            "competition_idx": 0,
             "base_points": 13,
             "rank": 6,
             "points": 13,
@@ -776,6 +840,7 @@
           },
           {
             "tournament_id": "1794",
+            "competition_idx": 0,
             "base_points": 41,
             "rank": 36,
             "points": 51,
@@ -788,6 +853,7 @@
           },
           {
             "tournament_id": "-13",
+            "competition_idx": 0,
             "base_points": 22,
             "rank": 28,
             "points": 28,
@@ -800,6 +866,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 0,
             "base_points": 55,
             "rank": 16,
             "points": 69,
@@ -812,6 +879,7 @@
           },
           {
             "tournament_id": "-15",
+            "competition_idx": 0,
             "base_points": 11,
             "rank": 5,
             "points": 11,
@@ -819,6 +887,7 @@
           },
           {
             "tournament_id": "1775",
+            "competition_idx": 0,
             "base_points": 21,
             "rank": 5,
             "points": 21,
@@ -826,6 +895,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 45,
             "rank": 18,
             "points": 45,
@@ -833,6 +903,7 @@
           },
           {
             "tournament_id": "1813",
+            "competition_idx": 0,
             "base_points": 38,
             "rank": 13,
             "points": 38,
@@ -840,6 +911,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 40,
             "rank": 8,
             "points": 60,
@@ -861,6 +933,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1725",
+            "competition_idx": 0,
             "base_points": 39,
             "rank": 3,
             "points": 61,
@@ -877,6 +950,7 @@
           },
           {
             "tournament_id": "1726",
+            "competition_idx": 1,
             "base_points": 20,
             "rank": 11,
             "points": 25,
@@ -889,6 +963,7 @@
           },
           {
             "tournament_id": "1739",
+            "competition_idx": 0,
             "base_points": 53,
             "rank": 8,
             "points": 66,
@@ -901,6 +976,7 @@
           },
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 40,
             "rank": 6,
             "points": 40,
@@ -908,6 +984,7 @@
           },
           {
             "tournament_id": "-10",
+            "competition_idx": 0,
             "base_points": 23,
             "rank": 15,
             "points": 29,
@@ -920,6 +997,7 @@
           },
           {
             "tournament_id": "1796",
+            "competition_idx": 0,
             "base_points": 27,
             "rank": 1,
             "points": 40,
@@ -932,6 +1010,7 @@
           },
           {
             "tournament_id": "-9",
+            "competition_idx": 0,
             "base_points": 22,
             "rank": 5,
             "points": 22,
@@ -939,6 +1018,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 29,
             "rank": 14,
             "points": 29,
@@ -946,6 +1026,7 @@
           },
           {
             "tournament_id": "-13",
+            "competition_idx": 0,
             "base_points": 35,
             "rank": 15,
             "points": 44,
@@ -958,6 +1039,7 @@
           },
           {
             "tournament_id": "1813",
+            "competition_idx": 0,
             "base_points": 40,
             "rank": 11,
             "points": 40,
@@ -974,6 +1056,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1725",
+            "competition_idx": 0,
             "base_points": 24,
             "rank": 18,
             "points": 30,
@@ -986,6 +1069,7 @@
           },
           {
             "tournament_id": "1739",
+            "competition_idx": 0,
             "base_points": 54,
             "rank": 7,
             "points": 68,
@@ -998,6 +1082,7 @@
           },
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 34,
             "rank": 12,
             "points": 34,
@@ -1005,6 +1090,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 36,
             "rank": 48,
             "points": 36,
@@ -1012,6 +1098,7 @@
           },
           {
             "tournament_id": "-9",
+            "competition_idx": 0,
             "base_points": 19,
             "rank": 8,
             "points": 19,
@@ -1019,6 +1106,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 32,
             "rank": 11,
             "points": 32,
@@ -1026,6 +1114,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 0,
             "base_points": 31,
             "rank": 40,
             "points": 39,
@@ -1038,6 +1127,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 59,
             "rank": 4,
             "points": 68,
@@ -1050,6 +1140,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 42,
             "rank": 6,
             "points": 63,
@@ -1071,6 +1162,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 41,
             "rank": 5,
             "points": 41,
@@ -1078,6 +1170,7 @@
           },
           {
             "tournament_id": "1757",
+            "competition_idx": 0,
             "base_points": 15,
             "rank": 4,
             "points": 17,
@@ -1090,6 +1183,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 71,
             "rank": 13,
             "points": 71,
@@ -1097,6 +1191,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 39,
             "rank": 4,
             "points": 45,
@@ -1109,6 +1204,7 @@
           },
           {
             "tournament_id": "1775",
+            "competition_idx": 0,
             "base_points": 24,
             "rank": 2,
             "points": 32,
@@ -1121,6 +1217,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 57,
             "rank": 6,
             "points": 57,
@@ -1128,6 +1225,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 46,
             "rank": 2,
             "points": 92,
@@ -1153,6 +1251,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 9,
             "rank": 75,
             "points": 9,
@@ -1160,6 +1259,7 @@
           },
           {
             "tournament_id": "1796",
+            "competition_idx": 0,
             "base_points": 13,
             "rank": 15,
             "points": 13,
@@ -1167,6 +1267,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 27,
             "rank": 16,
             "points": 27,
@@ -1174,6 +1275,7 @@
           },
           {
             "tournament_id": "-13",
+            "competition_idx": 0,
             "base_points": 38,
             "rank": 12,
             "points": 48,
@@ -1186,6 +1288,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 0,
             "base_points": 56,
             "rank": 15,
             "points": 70,
@@ -1198,6 +1301,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 44,
             "rank": 19,
             "points": 44,
@@ -1205,6 +1309,7 @@
           },
           {
             "tournament_id": "1813",
+            "competition_idx": 0,
             "base_points": 41,
             "rank": 10,
             "points": 41,
@@ -1212,6 +1317,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 45,
             "rank": 3,
             "points": 84,
@@ -1236,6 +1342,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1739",
+            "competition_idx": 0,
             "base_points": 36,
             "rank": 25,
             "points": 45,
@@ -1248,6 +1355,7 @@
           },
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 38,
             "rank": 8,
             "points": 38,
@@ -1255,6 +1363,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 57,
             "rank": 27,
             "points": 57,
@@ -1262,6 +1371,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 25,
             "rank": 18,
             "points": 25,
@@ -1269,6 +1379,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 0,
             "base_points": 60,
             "rank": 11,
             "points": 75,
@@ -1281,6 +1392,7 @@
           },
           {
             "tournament_id": "-15",
+            "competition_idx": 0,
             "base_points": 6,
             "rank": 10,
             "points": 6,
@@ -1288,6 +1400,7 @@
           },
           {
             "tournament_id": "1775",
+            "competition_idx": 0,
             "base_points": 15,
             "rank": 11,
             "points": 15,
@@ -1295,6 +1408,7 @@
           },
           {
             "tournament_id": "1813",
+            "competition_idx": 0,
             "base_points": 27,
             "rank": 24,
             "points": 27,
@@ -1302,6 +1416,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 31,
             "rank": 17,
             "points": 46,
@@ -1323,6 +1438,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1725",
+            "competition_idx": 0,
             "base_points": 36,
             "rank": 6,
             "points": 45,
@@ -1335,6 +1451,7 @@
           },
           {
             "tournament_id": "1739",
+            "competition_idx": 0,
             "base_points": 55,
             "rank": 6,
             "points": 69,
@@ -1347,6 +1464,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 67,
             "rank": 17,
             "points": 67,
@@ -1354,6 +1472,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 35,
             "rank": 8,
             "points": 35,
@@ -1361,6 +1480,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 50,
             "rank": 13,
             "points": 50,
@@ -1368,6 +1488,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 37,
             "rank": 11,
             "points": 56,
@@ -1389,6 +1510,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1725",
+            "competition_idx": 0,
             "base_points": 35,
             "rank": 7,
             "points": 44,
@@ -1401,6 +1523,7 @@
           },
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 32,
             "rank": 14,
             "points": 32,
@@ -1408,6 +1531,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 76,
             "rank": 8,
             "points": 76,
@@ -1415,6 +1539,7 @@
           },
           {
             "tournament_id": "1813",
+            "competition_idx": 0,
             "base_points": 48,
             "rank": 3,
             "points": 60,
@@ -1427,6 +1552,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 38,
             "rank": 10,
             "points": 57,
@@ -1448,6 +1574,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 42,
             "rank": 4,
             "points": 49,
@@ -1460,6 +1587,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 42,
             "rank": 42,
             "points": 42,
@@ -1467,6 +1595,7 @@
           },
           {
             "tournament_id": "-13",
+            "competition_idx": 0,
             "base_points": 33,
             "rank": 17,
             "points": 41,
@@ -1479,6 +1608,7 @@
           },
           {
             "tournament_id": "-15",
+            "competition_idx": 0,
             "base_points": 9,
             "rank": 7,
             "points": 9,
@@ -1486,6 +1616,7 @@
           },
           {
             "tournament_id": "1813",
+            "competition_idx": 0,
             "base_points": 45,
             "rank": 6,
             "points": 45,
@@ -1493,6 +1624,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 34,
             "rank": 14,
             "points": 51,
@@ -1514,6 +1646,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 31,
             "rank": 15,
             "points": 31,
@@ -1521,6 +1654,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 56,
             "rank": 28,
             "points": 56,
@@ -1528,6 +1662,7 @@
           },
           {
             "tournament_id": "1796",
+            "competition_idx": 0,
             "base_points": 24,
             "rank": 4,
             "points": 28,
@@ -1540,6 +1675,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 0,
             "base_points": 58,
             "rank": 13,
             "points": 72,
@@ -1552,6 +1688,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 29,
             "rank": 19,
             "points": 44,
@@ -1573,6 +1710,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1757",
+            "competition_idx": 0,
             "base_points": 12,
             "rank": 7,
             "points": 12,
@@ -1580,6 +1718,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 58,
             "rank": 26,
             "points": 58,
@@ -1587,6 +1726,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 0,
             "base_points": 49,
             "rank": 22,
             "points": 61,
@@ -1599,6 +1739,7 @@
           },
           {
             "tournament_id": "1775",
+            "competition_idx": 0,
             "base_points": 18,
             "rank": 8,
             "points": 18,
@@ -1606,6 +1747,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 29,
             "rank": 34,
             "points": 29,
@@ -1613,6 +1755,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 35,
             "rank": 13,
             "points": 52,
@@ -1634,6 +1777,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 37,
             "rank": 47,
             "points": 37,
@@ -1641,6 +1785,7 @@
           },
           {
             "tournament_id": "1796",
+            "competition_idx": 0,
             "base_points": 12,
             "rank": 16,
             "points": 12,
@@ -1648,6 +1793,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 14,
             "rank": 29,
             "points": 14,
@@ -1655,6 +1801,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 0,
             "base_points": 18,
             "rank": 53,
             "points": 22,
@@ -1667,6 +1814,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 39,
             "rank": 24,
             "points": 39,
@@ -1674,6 +1822,7 @@
           },
           {
             "tournament_id": "1813",
+            "competition_idx": 0,
             "base_points": 43,
             "rank": 8,
             "points": 43,
@@ -1681,6 +1830,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 25,
             "rank": 23,
             "points": 38,
@@ -1702,6 +1852,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1725",
+            "competition_idx": 0,
             "base_points": 12,
             "rank": 30,
             "points": 15,
@@ -1714,6 +1865,7 @@
           },
           {
             "tournament_id": "1739",
+            "competition_idx": 0,
             "base_points": 44,
             "rank": 17,
             "points": 55,
@@ -1726,6 +1878,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 24,
             "rank": 60,
             "points": 24,
@@ -1733,6 +1886,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 0,
             "base_points": 44,
             "rank": 27,
             "points": 55,
@@ -1745,6 +1899,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 52,
             "rank": 11,
             "points": 52,
@@ -1761,6 +1916,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1739",
+            "competition_idx": 0,
             "base_points": 36,
             "rank": 25,
             "points": 45,
@@ -1773,6 +1929,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 46,
             "rank": 38,
             "points": 46,
@@ -1780,6 +1937,7 @@
           },
           {
             "tournament_id": "1796",
+            "competition_idx": 0,
             "base_points": 23,
             "rank": 5,
             "points": 23,
@@ -1787,6 +1945,7 @@
           },
           {
             "tournament_id": "-13",
+            "competition_idx": 0,
             "base_points": 25,
             "rank": 25,
             "points": 31,
@@ -1799,6 +1958,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 30,
             "rank": 18,
             "points": 45,
@@ -1820,6 +1980,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 60,
             "rank": 24,
             "points": 60,
@@ -1827,6 +1988,7 @@
           },
           {
             "tournament_id": "-9",
+            "competition_idx": 0,
             "base_points": 16,
             "rank": 11,
             "points": 16,
@@ -1834,6 +1996,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 21,
             "rank": 22,
             "points": 21,
@@ -1841,6 +2004,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 46,
             "rank": 17,
             "points": 46,
@@ -1848,6 +2012,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 27,
             "rank": 21,
             "points": 40,
@@ -1869,6 +2034,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 19,
             "rank": 27,
             "points": 19,
@@ -1876,6 +2042,7 @@
           },
           {
             "tournament_id": "1757",
+            "competition_idx": 0,
             "base_points": 8,
             "rank": 11,
             "points": 8,
@@ -1883,6 +2050,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 10,
             "rank": 74,
             "points": 10,
@@ -1890,6 +2058,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 19,
             "rank": 24,
             "points": 19,
@@ -1897,6 +2066,7 @@
           },
           {
             "tournament_id": "1775",
+            "competition_idx": 0,
             "base_points": 10,
             "rank": 16,
             "points": 10,
@@ -1904,6 +2074,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 35,
             "rank": 28,
             "points": 35,
@@ -1911,6 +2082,7 @@
           },
           {
             "tournament_id": "1813",
+            "competition_idx": 0,
             "base_points": 20,
             "rank": 31,
             "points": 20,
@@ -1918,6 +2090,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 32,
             "rank": 16,
             "points": 48,
@@ -1939,6 +2112,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 36,
             "rank": 10,
             "points": 36,
@@ -1946,6 +2120,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 38,
             "rank": 5,
             "points": 38,
@@ -1953,6 +2128,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 0,
             "base_points": 62,
             "rank": 9,
             "points": 78,
@@ -1965,6 +2141,7 @@
           },
           {
             "tournament_id": "-15",
+            "competition_idx": 0,
             "base_points": 10,
             "rank": 6,
             "points": 10,
@@ -1981,6 +2158,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1757",
+            "competition_idx": 0,
             "base_points": 18,
             "rank": 1,
             "points": 27,
@@ -1993,6 +2171,7 @@
           },
           {
             "tournament_id": "-15",
+            "competition_idx": 0,
             "base_points": 8,
             "rank": 8,
             "points": 8,
@@ -2000,6 +2179,7 @@
           },
           {
             "tournament_id": "1813",
+            "competition_idx": 0,
             "base_points": 50,
             "rank": 1,
             "points": 75,
@@ -2012,6 +2192,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 33,
             "rank": 15,
             "points": 50,
@@ -2033,6 +2214,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 75,
             "rank": 9,
             "points": 75,
@@ -2040,6 +2222,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 0,
             "base_points": 63,
             "rank": 8,
             "points": 79,
@@ -2061,6 +2244,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-6",
+            "competition_idx": 0,
             "base_points": 11,
             "rank": 8,
             "points": 14,
@@ -2073,6 +2257,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 29,
             "rank": 55,
             "points": 29,
@@ -2080,6 +2265,7 @@
           },
           {
             "tournament_id": "1796",
+            "competition_idx": 0,
             "base_points": 22,
             "rank": 6,
             "points": 22,
@@ -2087,6 +2273,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 20,
             "rank": 23,
             "points": 20,
@@ -2094,6 +2281,7 @@
           },
           {
             "tournament_id": "1775",
+            "competition_idx": 0,
             "base_points": 12,
             "rank": 14,
             "points": 12,
@@ -2101,6 +2289,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 20,
             "rank": 43,
             "points": 20,
@@ -2108,6 +2297,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 21,
             "rank": 27,
             "points": 32,
@@ -2129,6 +2319,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1725",
+            "competition_idx": 0,
             "base_points": 23,
             "rank": 19,
             "points": 29,
@@ -2141,6 +2332,7 @@
           },
           {
             "tournament_id": "-10",
+            "competition_idx": 0,
             "base_points": 14,
             "rank": 24,
             "points": 18,
@@ -2153,6 +2345,7 @@
           },
           {
             "tournament_id": "-9",
+            "competition_idx": 0,
             "base_points": 15,
             "rank": 12,
             "points": 15,
@@ -2160,6 +2353,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 18,
             "rank": 25,
             "points": 18,
@@ -2167,6 +2361,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 0,
             "base_points": 23,
             "rank": 48,
             "points": 29,
@@ -2179,6 +2374,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 26,
             "rank": 37,
             "points": 26,
@@ -2195,6 +2391,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 34,
             "rank": 50,
             "points": 34,
@@ -2202,6 +2399,7 @@
           },
           {
             "tournament_id": "1796",
+            "competition_idx": 0,
             "base_points": 5,
             "rank": 23,
             "points": 5,
@@ -2209,6 +2407,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 22,
             "rank": 21,
             "points": 22,
@@ -2216,6 +2415,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 0,
             "base_points": 21,
             "rank": 50,
             "points": 26,
@@ -2228,6 +2428,7 @@
           },
           {
             "tournament_id": "1813",
+            "competition_idx": 0,
             "base_points": 5,
             "rank": 46,
             "points": 5,
@@ -2235,6 +2436,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 22,
             "rank": 26,
             "points": 33,
@@ -2256,6 +2458,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 34,
             "rank": 9,
             "points": 34,
@@ -2263,6 +2466,7 @@
           },
           {
             "tournament_id": "-13",
+            "competition_idx": 0,
             "base_points": 29,
             "rank": 21,
             "points": 36,
@@ -2275,6 +2479,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 36,
             "rank": 12,
             "points": 54,
@@ -2296,6 +2501,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1757",
+            "competition_idx": 0,
             "base_points": 11,
             "rank": 8,
             "points": 11,
@@ -2303,6 +2509,7 @@
           },
           {
             "tournament_id": "-9",
+            "competition_idx": 0,
             "base_points": 21,
             "rank": 6,
             "points": 21,
@@ -2310,6 +2517,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 24,
             "rank": 19,
             "points": 24,
@@ -2317,6 +2525,7 @@
           },
           {
             "tournament_id": "1775",
+            "competition_idx": 0,
             "base_points": 19,
             "rank": 7,
             "points": 19,
@@ -2324,6 +2533,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 47,
             "rank": 16,
             "points": 47,
@@ -2340,6 +2550,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 25,
             "rank": 21,
             "points": 25,
@@ -2347,6 +2558,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 19,
             "rank": 65,
             "points": 19,
@@ -2354,6 +2566,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 33,
             "rank": 10,
             "points": 33,
@@ -2361,6 +2574,7 @@
           },
           {
             "tournament_id": "-15",
+            "competition_idx": 0,
             "base_points": 2,
             "rank": 14,
             "points": 2,
@@ -2368,6 +2582,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 42,
             "rank": 21,
             "points": 42,
@@ -2384,6 +2599,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 21,
             "rank": 25,
             "points": 21,
@@ -2391,6 +2607,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 24,
             "rank": 60,
             "points": 24,
@@ -2398,6 +2615,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 0,
             "base_points": 32,
             "rank": 39,
             "points": 40,
@@ -2410,6 +2628,7 @@
           },
           {
             "tournament_id": "1813",
+            "competition_idx": 0,
             "base_points": 16,
             "rank": 35,
             "points": 16,
@@ -2417,6 +2636,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 13,
             "rank": 35,
             "points": 20,
@@ -2438,6 +2658,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 29,
             "rank": 17,
             "points": 29,
@@ -2445,6 +2666,7 @@
           },
           {
             "tournament_id": "1757",
+            "competition_idx": 0,
             "base_points": 10,
             "rank": 9,
             "points": 10,
@@ -2452,6 +2674,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 26,
             "rank": 17,
             "points": 26,
@@ -2459,6 +2682,7 @@
           },
           {
             "tournament_id": "-15",
+            "competition_idx": 0,
             "base_points": 5,
             "rank": 11,
             "points": 5,
@@ -2466,6 +2690,7 @@
           },
           {
             "tournament_id": "1775",
+            "competition_idx": 0,
             "base_points": 11,
             "rank": 15,
             "points": 11,
@@ -2473,6 +2698,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 18,
             "rank": 30,
             "points": 27,
@@ -2494,6 +2720,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 16,
             "rank": 30,
             "points": 16,
@@ -2501,6 +2728,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 28,
             "rank": 56,
             "points": 28,
@@ -2508,6 +2736,7 @@
           },
           {
             "tournament_id": "-9",
+            "competition_idx": 0,
             "base_points": 17,
             "rank": 10,
             "points": 17,
@@ -2515,6 +2744,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 11,
             "rank": 32,
             "points": 11,
@@ -2522,6 +2752,7 @@
           },
           {
             "tournament_id": "-15",
+            "competition_idx": 0,
             "base_points": 5,
             "rank": 11,
             "points": 5,
@@ -2529,6 +2760,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 14,
             "rank": 49,
             "points": 14,
@@ -2536,6 +2768,7 @@
           },
           {
             "tournament_id": "1813",
+            "competition_idx": 0,
             "base_points": 13,
             "rank": 38,
             "points": 13,
@@ -2552,6 +2785,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 12,
             "rank": 72,
             "points": 12,
@@ -2559,6 +2793,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 0,
             "base_points": 33,
             "rank": 38,
             "points": 41,
@@ -2571,6 +2806,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 48,
             "rank": 15,
             "points": 48,
@@ -2587,6 +2823,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1725",
+            "competition_idx": 0,
             "base_points": 29,
             "rank": 13,
             "points": 36,
@@ -2599,6 +2836,7 @@
           },
           {
             "tournament_id": "1739",
+            "competition_idx": 0,
             "base_points": 47,
             "rank": 14,
             "points": 59,
@@ -2620,6 +2858,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 13,
             "rank": 33,
             "points": 13,
@@ -2627,6 +2866,7 @@
           },
           {
             "tournament_id": "1757",
+            "competition_idx": 0,
             "base_points": 4,
             "rank": 15,
             "points": 4,
@@ -2634,6 +2874,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 2,
             "rank": 82,
             "points": 2,
@@ -2641,6 +2882,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 13,
             "rank": 30,
             "points": 13,
@@ -2648,6 +2890,7 @@
           },
           {
             "tournament_id": "1775",
+            "competition_idx": 0,
             "base_points": 5,
             "rank": 21,
             "points": 5,
@@ -2655,6 +2898,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 27,
             "rank": 36,
             "points": 27,
@@ -2662,6 +2906,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 17,
             "rank": 31,
             "points": 26,
@@ -2683,6 +2928,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1768",
+            "competition_idx": 0,
             "base_points": 10,
             "rank": 27,
             "points": 12,
@@ -2695,6 +2941,7 @@
           },
           {
             "tournament_id": "1757",
+            "competition_idx": 0,
             "base_points": 9,
             "rank": 10,
             "points": 9,
@@ -2702,6 +2949,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 44,
             "rank": 40,
             "points": 44,
@@ -2709,6 +2957,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 24,
             "rank": 39,
             "points": 24,
@@ -2725,6 +2974,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-18",
+            "competition_idx": 0,
             "base_points": 39,
             "rank": 27,
             "points": 49,
@@ -2737,6 +2987,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 31,
             "rank": 32,
             "points": 31,
@@ -2744,6 +2995,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 6,
             "rank": 42,
             "points": 9,
@@ -2764,6 +3016,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1725",
+            "competition_idx": 0,
             "base_points": 8,
             "rank": 34,
             "points": 10,
@@ -2776,6 +3029,7 @@
           },
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 20,
             "rank": 26,
             "points": 20,
@@ -2783,6 +3037,7 @@
           },
           {
             "tournament_id": "1757",
+            "competition_idx": 0,
             "base_points": 6,
             "rank": 13,
             "points": 6,
@@ -2790,6 +3045,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 3,
             "rank": 81,
             "points": 3,
@@ -2797,6 +3053,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 0,
             "base_points": 1,
             "rank": 70,
             "points": 1,
@@ -2809,6 +3066,7 @@
           },
           {
             "tournament_id": "1775",
+            "competition_idx": 0,
             "base_points": 9,
             "rank": 17,
             "points": 9,
@@ -2816,6 +3074,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 38,
             "rank": 25,
             "points": 38,
@@ -2823,6 +3082,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 1,
             "rank": 47,
             "points": 2,
@@ -2844,6 +3104,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 28,
             "rank": 18,
             "points": 28,
@@ -2851,6 +3112,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 19,
             "rank": 65,
             "points": 19,
@@ -2858,6 +3120,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 0,
             "base_points": 30,
             "rank": 41,
             "points": 38,
@@ -2870,6 +3133,7 @@
           },
           {
             "tournament_id": "1775",
+            "competition_idx": 0,
             "base_points": 3,
             "rank": 23,
             "points": 3,
@@ -2886,6 +3150,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1739",
+            "competition_idx": 0,
             "base_points": 23,
             "rank": 38,
             "points": 29,
@@ -2898,6 +3163,7 @@
           },
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 5,
             "rank": 41,
             "points": 5,
@@ -2905,6 +3171,7 @@
           },
           {
             "tournament_id": "1757",
+            "competition_idx": 0,
             "base_points": 5,
             "rank": 14,
             "points": 5,
@@ -2912,6 +3179,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 14,
             "rank": 70,
             "points": 14,
@@ -2919,6 +3187,7 @@
           },
           {
             "tournament_id": "-9",
+            "competition_idx": 0,
             "base_points": 6,
             "rank": 21,
             "points": 6,
@@ -2926,6 +3195,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 16,
             "rank": 27,
             "points": 16,
@@ -2933,6 +3203,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 8,
             "rank": 40,
             "points": 12,
@@ -2954,6 +3225,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 9,
             "rank": 34,
             "points": 9,
@@ -2961,6 +3233,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 0,
             "base_points": 34,
             "rank": 37,
             "points": 42,
@@ -2973,6 +3246,7 @@
           },
           {
             "tournament_id": "1813",
+            "competition_idx": 0,
             "base_points": 17,
             "rank": 34,
             "points": 17,
@@ -2980,6 +3254,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 9,
             "rank": 39,
             "points": 14,
@@ -3000,6 +3275,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 15,
             "rank": 31,
             "points": 15,
@@ -3007,6 +3283,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 30,
             "rank": 13,
             "points": 30,
@@ -3014,6 +3291,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 32,
             "rank": 31,
             "points": 32,
@@ -3029,6 +3307,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 28,
             "rank": 15,
             "points": 28,
@@ -3036,6 +3315,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 0,
             "base_points": 37,
             "rank": 34,
             "points": 46,
@@ -3057,6 +3337,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-9",
+            "competition_idx": 0,
             "base_points": 10,
             "rank": 17,
             "points": 10,
@@ -3064,6 +3345,7 @@
           },
           {
             "tournament_id": "1775",
+            "competition_idx": 0,
             "base_points": 2,
             "rank": 24,
             "points": 2,
@@ -3071,6 +3353,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 19,
             "rank": 44,
             "points": 19,
@@ -3078,6 +3361,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 28,
             "rank": 20,
             "points": 42,
@@ -3098,6 +3382,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 2,
             "rank": 44,
             "points": 2,
@@ -3105,6 +3390,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 11,
             "rank": 52,
             "points": 11,
@@ -3112,6 +3398,7 @@
           },
           {
             "tournament_id": "1813",
+            "competition_idx": 0,
             "base_points": 22,
             "rank": 29,
             "points": 22,
@@ -3119,6 +3406,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 24,
             "rank": 24,
             "points": 36,
@@ -3139,6 +3427,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1726",
+            "competition_idx": 1,
             "base_points": 5,
             "rank": 26,
             "points": 6,
@@ -3151,6 +3440,7 @@
           },
           {
             "tournament_id": "-9",
+            "competition_idx": 0,
             "base_points": 12,
             "rank": 15,
             "points": 12,
@@ -3158,6 +3448,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 0,
             "base_points": 24,
             "rank": 47,
             "points": 30,
@@ -3170,6 +3461,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 22,
             "rank": 41,
             "points": 22,
@@ -3186,6 +3478,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 6,
             "rank": 40,
             "points": 6,
@@ -3193,6 +3486,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 33,
             "rank": 51,
             "points": 33,
@@ -3200,6 +3494,7 @@
           },
           {
             "tournament_id": "1796",
+            "competition_idx": 0,
             "base_points": 1,
             "rank": 27,
             "points": 1,
@@ -3207,6 +3502,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 20,
             "rank": 28,
             "points": 30,
@@ -3228,6 +3524,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 8,
             "rank": 38,
             "points": 8,
@@ -3235,6 +3532,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 27,
             "rank": 57,
             "points": 27,
@@ -3242,6 +3540,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 6,
             "rank": 37,
             "points": 6,
@@ -3249,6 +3548,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 12,
             "rank": 51,
             "points": 12,
@@ -3256,6 +3556,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 10,
             "rank": 38,
             "points": 15,
@@ -3276,6 +3577,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1813",
+            "competition_idx": 0,
             "base_points": 49,
             "rank": 2,
             "points": 65,
@@ -3296,6 +3598,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1739",
+            "competition_idx": 0,
             "base_points": 52,
             "rank": 9,
             "points": 65,
@@ -3317,6 +3620,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1796",
+            "competition_idx": 0,
             "base_points": 15,
             "rank": 13,
             "points": 15,
@@ -3324,6 +3628,7 @@
           },
           {
             "tournament_id": "1775",
+            "competition_idx": 0,
             "base_points": 13,
             "rank": 13,
             "points": 13,
@@ -3331,6 +3636,7 @@
           },
           {
             "tournament_id": "1813",
+            "competition_idx": 0,
             "base_points": 18,
             "rank": 33,
             "points": 18,
@@ -3338,6 +3644,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 12,
             "rank": 36,
             "points": 18,
@@ -3359,6 +3666,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 4,
             "rank": 42,
             "points": 4,
@@ -3366,6 +3674,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 55,
             "rank": 29,
             "points": 55,
@@ -3373,6 +3682,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 5,
             "rank": 38,
             "points": 5,
@@ -3389,6 +3699,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 7,
             "rank": 39,
             "points": 7,
@@ -3396,6 +3707,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 12,
             "rank": 31,
             "points": 12,
@@ -3403,6 +3715,7 @@
           },
           {
             "tournament_id": "1775",
+            "competition_idx": 0,
             "base_points": 22,
             "rank": 4,
             "points": 26,
@@ -3415,6 +3728,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 18,
             "rank": 45,
             "points": 18,
@@ -3431,6 +3745,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 26,
             "rank": 20,
             "points": 26,
@@ -3438,6 +3753,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 23,
             "rank": 25,
             "points": 34,
@@ -3459,6 +3775,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 56,
             "rank": 7,
             "points": 56,
@@ -3474,6 +3791,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1790",
+            "competition_idx": 0,
             "base_points": 35,
             "rank": 36,
             "points": 44,
@@ -3486,6 +3804,7 @@
           },
           {
             "tournament_id": "1813",
+            "competition_idx": 0,
             "base_points": 11,
             "rank": 40,
             "points": 11,
@@ -3501,6 +3820,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 17,
             "rank": 29,
             "points": 17,
@@ -3508,6 +3828,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 34,
             "rank": 29,
             "points": 34,
@@ -3524,6 +3845,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 35,
             "rank": 11,
             "points": 35,
@@ -3531,6 +3853,7 @@
           },
           {
             "tournament_id": "1757",
+            "competition_idx": 0,
             "base_points": 14,
             "rank": 5,
             "points": 14,
@@ -3547,6 +3870,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 45,
             "rank": 39,
             "points": 45,
@@ -3554,6 +3878,7 @@
           },
           {
             "tournament_id": "-15",
+            "competition_idx": 0,
             "base_points": 3,
             "rank": 13,
             "points": 3,
@@ -3570,6 +3895,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1796",
+            "competition_idx": 0,
             "base_points": 20,
             "rank": 8,
             "points": 20,
@@ -3577,6 +3903,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 9,
             "rank": 54,
             "points": 9,
@@ -3584,6 +3911,7 @@
           },
           {
             "tournament_id": "1813",
+            "competition_idx": 0,
             "base_points": 10,
             "rank": 41,
             "points": 10,
@@ -3591,6 +3919,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 5,
             "rank": 43,
             "points": 8,
@@ -3611,6 +3940,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 9,
             "rank": 37,
             "points": 9,
@@ -3618,6 +3948,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 15,
             "rank": 69,
             "points": 15,
@@ -3625,6 +3956,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 21,
             "rank": 42,
             "points": 21,
@@ -3640,6 +3972,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 23,
             "rank": 23,
             "points": 23,
@@ -3647,6 +3980,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 19,
             "rank": 65,
             "points": 19,
@@ -3654,6 +3988,7 @@
           },
           {
             "tournament_id": "-9",
+            "competition_idx": 0,
             "base_points": 2,
             "rank": 25,
             "points": 2,
@@ -3670,6 +4005,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1775",
+            "competition_idx": 0,
             "base_points": 4,
             "rank": 22,
             "points": 4,
@@ -3677,6 +4013,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 3,
             "rank": 60,
             "points": 3,
@@ -3684,6 +4021,7 @@
           },
           {
             "tournament_id": "1813",
+            "competition_idx": 0,
             "base_points": 8,
             "rank": 43,
             "points": 8,
@@ -3691,6 +4029,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 19,
             "rank": 29,
             "points": 28,
@@ -3711,6 +4050,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-6",
+            "competition_idx": 0,
             "base_points": 8,
             "rank": 11,
             "points": 10,
@@ -3723,6 +4063,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 31,
             "rank": 12,
             "points": 31,
@@ -3738,6 +4079,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1796",
+            "competition_idx": 0,
             "base_points": 18,
             "rank": 10,
             "points": 18,
@@ -3745,6 +4087,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 7,
             "rank": 56,
             "points": 7,
@@ -3752,6 +4095,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 11,
             "rank": 37,
             "points": 16,
@@ -3772,6 +4116,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 3,
             "rank": 43,
             "points": 3,
@@ -3779,6 +4124,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 15,
             "rank": 28,
             "points": 15,
@@ -3786,6 +4132,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 15,
             "rank": 33,
             "points": 22,
@@ -3807,6 +4154,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 9,
             "rank": 75,
             "points": 9,
@@ -3814,6 +4162,7 @@
           },
           {
             "tournament_id": "1796",
+            "competition_idx": 0,
             "base_points": 9,
             "rank": 19,
             "points": 9,
@@ -3821,6 +4170,7 @@
           },
           {
             "tournament_id": "-13",
+            "competition_idx": 0,
             "base_points": 18,
             "rank": 32,
             "points": 22,
@@ -3841,6 +4191,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1775",
+            "competition_idx": 0,
             "base_points": 6,
             "rank": 20,
             "points": 6,
@@ -3848,6 +4199,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 33,
             "rank": 30,
             "points": 33,
@@ -3863,6 +4215,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-9",
+            "competition_idx": 0,
             "base_points": 13,
             "rank": 14,
             "points": 13,
@@ -3870,6 +4223,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 25,
             "rank": 38,
             "points": 25,
@@ -3886,6 +4240,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 22,
             "rank": 24,
             "points": 22,
@@ -3893,6 +4248,7 @@
           },
           {
             "tournament_id": "-9",
+            "competition_idx": 0,
             "base_points": 5,
             "rank": 22,
             "points": 5,
@@ -3900,6 +4256,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 10,
             "rank": 53,
             "points": 10,
@@ -3916,6 +4273,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 30,
             "rank": 16,
             "points": 30,
@@ -3923,6 +4281,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 5,
             "rank": 79,
             "points": 5,
@@ -3939,6 +4298,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 28,
             "rank": 35,
             "points": 28,
@@ -3946,6 +4306,7 @@
           },
           {
             "tournament_id": "1813",
+            "competition_idx": 0,
             "base_points": 6,
             "rank": 45,
             "points": 6,
@@ -3961,6 +4322,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 33,
             "rank": 13,
             "points": 33,
@@ -3976,6 +4338,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1796",
+            "competition_idx": 0,
             "base_points": 11,
             "rank": 17,
             "points": 11,
@@ -3983,6 +4346,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 14,
             "rank": 34,
             "points": 21,
@@ -4003,6 +4367,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 11,
             "rank": 35,
             "points": 11,
@@ -4010,6 +4375,7 @@
           },
           {
             "tournament_id": "1757",
+            "competition_idx": 0,
             "base_points": 7,
             "rank": 12,
             "points": 7,
@@ -4017,6 +4383,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 10,
             "rank": 33,
             "points": 10,
@@ -4024,6 +4391,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 3,
             "rank": 45,
             "points": 4,
@@ -4045,6 +4413,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 3,
             "rank": 40,
             "points": 3,
@@ -4052,6 +4421,7 @@
           },
           {
             "tournament_id": "1775",
+            "competition_idx": 0,
             "base_points": 1,
             "rank": 25,
             "points": 1,
@@ -4059,6 +4429,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 4,
             "rank": 59,
             "points": 4,
@@ -4066,6 +4437,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 16,
             "rank": 32,
             "points": 24,
@@ -4086,6 +4458,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1790",
+            "competition_idx": 0,
             "base_points": 26,
             "rank": 45,
             "points": 32,
@@ -4106,6 +4479,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1813",
+            "competition_idx": 0,
             "base_points": 31,
             "rank": 20,
             "points": 31,
@@ -4122,6 +4496,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 30,
             "rank": 54,
             "points": 30,
@@ -4138,6 +4513,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1813",
+            "competition_idx": 0,
             "base_points": 26,
             "rank": 25,
             "points": 26,
@@ -4153,6 +4529,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 25,
             "rank": 59,
             "points": 25,
@@ -4169,6 +4546,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 24,
             "rank": 22,
             "points": 24,
@@ -4184,6 +4562,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 18,
             "rank": 28,
             "points": 18,
@@ -4191,6 +4570,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 4,
             "rank": 80,
             "points": 4,
@@ -4207,6 +4587,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-9",
+            "competition_idx": 0,
             "base_points": 1,
             "rank": 26,
             "points": 1,
@@ -4214,6 +4595,7 @@
           },
           {
             "tournament_id": "1813",
+            "competition_idx": 0,
             "base_points": 19,
             "rank": 32,
             "points": 19,
@@ -4229,6 +4611,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 10,
             "rank": 36,
             "points": 10,
@@ -4236,6 +4619,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 7,
             "rank": 41,
             "points": 10,
@@ -4257,6 +4641,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1796",
+            "competition_idx": 0,
             "base_points": 19,
             "rank": 9,
             "points": 19,
@@ -4272,6 +4657,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-9",
+            "competition_idx": 0,
             "base_points": 18,
             "rank": 9,
             "points": 18,
@@ -4287,6 +4673,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 6,
             "rank": 78,
             "points": 6,
@@ -4294,6 +4681,7 @@
           },
           {
             "tournament_id": "-9",
+            "competition_idx": 0,
             "base_points": 9,
             "rank": 18,
             "points": 9,
@@ -4301,6 +4689,7 @@
           },
           {
             "tournament_id": "-15",
+            "competition_idx": 0,
             "base_points": 1,
             "rank": 15,
             "points": 1,
@@ -4308,6 +4697,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 2,
             "rank": 61,
             "points": 2,
@@ -4324,6 +4714,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1796",
+            "competition_idx": 0,
             "base_points": 17,
             "rank": 11,
             "points": 17,
@@ -4339,6 +4730,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1790",
+            "competition_idx": 0,
             "base_points": 13,
             "rank": 58,
             "points": 16,
@@ -4359,6 +4751,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1790",
+            "competition_idx": 0,
             "base_points": 12,
             "rank": 59,
             "points": 15,
@@ -4379,6 +4772,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 7,
             "rank": 36,
             "points": 7,
@@ -4386,6 +4780,7 @@
           },
           {
             "tournament_id": "1775",
+            "competition_idx": 0,
             "base_points": 7,
             "rank": 19,
             "points": 7,
@@ -4401,6 +4796,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 14,
             "rank": 32,
             "points": 14,
@@ -4416,6 +4812,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 12,
             "rank": 34,
             "points": 12,
@@ -4431,6 +4828,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 1,
             "rank": 42,
             "points": 1,
@@ -4438,6 +4836,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 5,
             "rank": 58,
             "points": 5,
@@ -4445,6 +4844,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 4,
             "rank": 44,
             "points": 6,
@@ -4465,6 +4865,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-9",
+            "competition_idx": 0,
             "base_points": 11,
             "rank": 16,
             "points": 11,
@@ -4480,6 +4881,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1757",
+            "competition_idx": 0,
             "base_points": 3,
             "rank": 16,
             "points": 3,
@@ -4487,6 +4889,7 @@
           },
           {
             "tournament_id": "1775",
+            "competition_idx": 0,
             "base_points": 8,
             "rank": 18,
             "points": 8,
@@ -4503,6 +4906,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1796",
+            "competition_idx": 0,
             "base_points": 2,
             "rank": 26,
             "points": 2,
@@ -4510,6 +4914,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 8,
             "rank": 35,
             "points": 8,
@@ -4525,6 +4930,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1813",
+            "competition_idx": 0,
             "base_points": 10,
             "rank": 41,
             "points": 10,
@@ -4540,6 +4946,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-9",
+            "competition_idx": 0,
             "base_points": 8,
             "rank": 19,
             "points": 8,
@@ -4555,6 +4962,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 0,
             "base_points": 1,
             "rank": 45,
             "points": 1,
@@ -4562,6 +4970,7 @@
           },
           {
             "tournament_id": "1757",
+            "competition_idx": 0,
             "base_points": 2,
             "rank": 17,
             "points": 2,
@@ -4569,6 +4978,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 1,
             "rank": 83,
             "points": 1,
@@ -4576,6 +4986,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 4,
             "rank": 39,
             "points": 4,
@@ -4591,6 +5002,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-9",
+            "competition_idx": 0,
             "base_points": 7,
             "rank": 20,
             "points": 7,
@@ -4606,6 +5018,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1772",
+            "competition_idx": 0,
             "base_points": 7,
             "rank": 77,
             "points": 7,
@@ -4621,6 +5034,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1783",
+            "competition_idx": 0,
             "base_points": 2,
             "rank": 41,
             "points": 2,
@@ -4628,6 +5042,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 0,
             "base_points": 1,
             "rank": 62,
             "points": 1,
@@ -4635,6 +5050,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 0,
             "base_points": 2,
             "rank": 46,
             "points": 3,
@@ -4655,6 +5071,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1790",
+            "competition_idx": 0,
             "base_points": 5,
             "rank": 66,
             "points": 6,
@@ -4675,6 +5092,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-9",
+            "competition_idx": 0,
             "base_points": 4,
             "rank": 23,
             "points": 4,
@@ -4690,6 +5108,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-9",
+            "competition_idx": 0,
             "base_points": 3,
             "rank": 24,
             "points": 3,
@@ -4705,6 +5124,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1796",
+            "competition_idx": 0,
             "base_points": 3,
             "rank": 25,
             "points": 3,
@@ -4722,6 +5142,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1739",
+            "competition_idx": 1,
             "base_points": 13,
             "rank": 1,
             "points": 24,
@@ -4738,6 +5159,7 @@
           },
           {
             "tournament_id": "1755",
+            "competition_idx": 1,
             "base_points": 4,
             "rank": 2,
             "points": 5,
@@ -4750,6 +5172,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 1,
             "base_points": 16,
             "rank": 4,
             "points": 19,
@@ -4762,6 +5185,7 @@
           },
           {
             "tournament_id": "-13",
+            "competition_idx": 1,
             "base_points": 9,
             "rank": 3,
             "points": 14,
@@ -4778,6 +5202,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 1,
             "base_points": 8,
             "rank": 4,
             "points": 12,
@@ -4794,6 +5219,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 1,
             "base_points": 3,
             "rank": 6,
             "points": 4,
@@ -4815,6 +5241,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1772",
+            "competition_idx": 1,
             "base_points": 19,
             "rank": 1,
             "points": 28,
@@ -4827,6 +5254,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 1,
             "base_points": 9,
             "rank": 3,
             "points": 14,
@@ -4843,6 +5271,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 1,
             "base_points": 10,
             "rank": 1,
             "points": 15,
@@ -4855,6 +5284,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 1,
             "base_points": 6,
             "rank": 3,
             "points": 11,
@@ -4880,6 +5310,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 1,
             "base_points": 3,
             "rank": 3,
             "points": 4,
@@ -4892,6 +5323,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 1,
             "base_points": 4,
             "rank": 16,
             "points": 4,
@@ -4899,6 +5331,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 1,
             "base_points": 10,
             "rank": 2,
             "points": 17,
@@ -4915,6 +5348,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 1,
             "base_points": 7,
             "rank": 4,
             "points": 8,
@@ -4927,6 +5361,7 @@
           },
           {
             "tournament_id": "1813",
+            "competition_idx": 1,
             "base_points": 8,
             "rank": 6,
             "points": 8,
@@ -4934,6 +5369,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 1,
             "base_points": 5,
             "rank": 4,
             "points": 9,
@@ -4958,6 +5394,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-18",
+            "competition_idx": 1,
             "base_points": 6,
             "rank": 1,
             "points": 11,
@@ -4974,6 +5411,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 1,
             "base_points": 9,
             "rank": 2,
             "points": 12,
@@ -4986,6 +5424,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 1,
             "base_points": 8,
             "rank": 1,
             "points": 18,
@@ -5011,6 +5450,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 1,
             "base_points": 2,
             "rank": 4,
             "points": 2,
@@ -5023,6 +5463,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 1,
             "base_points": 2,
             "rank": 10,
             "points": 2,
@@ -5035,6 +5476,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 1,
             "base_points": 5,
             "rank": 6,
             "points": 5,
@@ -5042,6 +5484,7 @@
           },
           {
             "tournament_id": "1813",
+            "competition_idx": 1,
             "base_points": 10,
             "rank": 4,
             "points": 12,
@@ -5054,6 +5497,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 1,
             "base_points": 7,
             "rank": 2,
             "points": 14,
@@ -5078,6 +5522,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1755",
+            "competition_idx": 1,
             "base_points": 5,
             "rank": 1,
             "points": 8,
@@ -5090,6 +5535,7 @@
           },
           {
             "tournament_id": "1772",
+            "competition_idx": 1,
             "base_points": 12,
             "rank": 8,
             "points": 12,
@@ -5097,6 +5543,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 1,
             "base_points": 4,
             "rank": 7,
             "points": 4,
@@ -5104,6 +5551,7 @@
           },
           {
             "tournament_id": "1813",
+            "competition_idx": 1,
             "base_points": 7,
             "rank": 7,
             "points": 7,
@@ -5111,6 +5559,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 1,
             "base_points": 1,
             "rank": 8,
             "points": 2,
@@ -5131,6 +5580,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1772",
+            "competition_idx": 1,
             "base_points": 18,
             "rank": 2,
             "points": 24,
@@ -5143,6 +5593,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 1,
             "base_points": 1,
             "rank": 10,
             "points": 1,
@@ -5150,6 +5601,7 @@
           },
           {
             "tournament_id": "1813",
+            "competition_idx": 1,
             "base_points": 4,
             "rank": 10,
             "points": 4,
@@ -5157,6 +5609,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 1,
             "base_points": 2,
             "rank": 7,
             "points": 3,
@@ -5178,6 +5631,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1813",
+            "competition_idx": 1,
             "base_points": 13,
             "rank": 1,
             "points": 20,
@@ -5190,6 +5644,7 @@
           },
           {
             "tournament_id": "-20",
+            "competition_idx": 1,
             "base_points": 4,
             "rank": 5,
             "points": 6,
@@ -5211,6 +5666,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1772",
+            "competition_idx": 1,
             "base_points": 6,
             "rank": 14,
             "points": 6,
@@ -5218,6 +5674,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 1,
             "base_points": 4,
             "rank": 8,
             "points": 5,
@@ -5230,6 +5687,7 @@
           },
           {
             "tournament_id": "1791",
+            "competition_idx": 1,
             "base_points": 3,
             "rank": 8,
             "points": 3,
@@ -5237,6 +5695,7 @@
           },
           {
             "tournament_id": "1813",
+            "competition_idx": 1,
             "base_points": 2,
             "rank": 12,
             "points": 2,
@@ -5256,6 +5715,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1743",
+            "competition_idx": 0,
             "base_points": 15,
             "rank": 3,
             "points": 19,
@@ -5268,6 +5728,7 @@
           },
           {
             "tournament_id": "1739",
+            "competition_idx": 2,
             "base_points": 10,
             "rank": 18,
             "points": 12,
@@ -5280,6 +5741,7 @@
           },
           {
             "tournament_id": "-7",
+            "competition_idx": 0,
             "base_points": 12,
             "rank": 1,
             "points": 18,
@@ -5292,6 +5754,7 @@
           },
           {
             "tournament_id": "-13",
+            "competition_idx": 2,
             "base_points": 29,
             "rank": 13,
             "points": 36,
@@ -5312,6 +5775,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1743",
+            "competition_idx": 0,
             "base_points": 14,
             "rank": 4,
             "points": 16,
@@ -5324,6 +5788,7 @@
           },
           {
             "tournament_id": "1739",
+            "competition_idx": 2,
             "base_points": 18,
             "rank": 10,
             "points": 22,
@@ -5336,6 +5801,7 @@
           },
           {
             "tournament_id": "-13",
+            "competition_idx": 2,
             "base_points": 33,
             "rank": 9,
             "points": 41,
@@ -5356,6 +5822,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1739",
+            "competition_idx": 2,
             "base_points": 26,
             "rank": 2,
             "points": 43,
@@ -5380,6 +5847,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1726",
+            "competition_idx": 0,
             "base_points": 9,
             "rank": 26,
             "points": 11,
@@ -5392,6 +5860,7 @@
           },
           {
             "tournament_id": "1743",
+            "competition_idx": 0,
             "base_points": 12,
             "rank": 6,
             "points": 12,
@@ -5399,6 +5868,7 @@
           },
           {
             "tournament_id": "1739",
+            "competition_idx": 2,
             "base_points": 16,
             "rank": 12,
             "points": 20,
@@ -5419,6 +5889,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1743",
+            "competition_idx": 0,
             "base_points": 4,
             "rank": 14,
             "points": 4,
@@ -5426,6 +5897,7 @@
           },
           {
             "tournament_id": "1771",
+            "competition_idx": 1,
             "base_points": 19,
             "rank": 13,
             "points": 24,
@@ -5438,6 +5910,7 @@
           },
           {
             "tournament_id": "-13",
+            "competition_idx": 2,
             "base_points": 11,
             "rank": 31,
             "points": 14,
@@ -5450,6 +5923,7 @@
           },
           {
             "tournament_id": "-21",
+            "competition_idx": 0,
             "base_points": 1,
             "rank": 8,
             "points": 1,
@@ -5465,6 +5939,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1743",
+            "competition_idx": 0,
             "base_points": 10,
             "rank": 8,
             "points": 10,
@@ -5472,6 +5947,7 @@
           },
           {
             "tournament_id": "-13",
+            "competition_idx": 2,
             "base_points": 18,
             "rank": 24,
             "points": 22,
@@ -5484,6 +5960,7 @@
           },
           {
             "tournament_id": "-21",
+            "competition_idx": 0,
             "base_points": 6,
             "rank": 3,
             "points": 8,
@@ -5504,6 +5981,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-13",
+            "competition_idx": 2,
             "base_points": 28,
             "rank": 14,
             "points": 35,
@@ -5518,12 +5996,13 @@
         "uncounted_tournaments": []
       },
       {
-        "fencer_id": "-8",
+        "fencer_id": "12166",
         "rank": 8,
         "points": 24,
         "counted_tournaments": [
           {
             "tournament_id": "-7",
+            "competition_idx": 0,
             "base_points": 10,
             "rank": 3,
             "points": 12,
@@ -5536,6 +6015,7 @@
           },
           {
             "tournament_id": "-21",
+            "competition_idx": 0,
             "base_points": 8,
             "rank": 1,
             "points": 12,
@@ -5556,6 +6036,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1743",
+            "competition_idx": 0,
             "base_points": 5,
             "rank": 13,
             "points": 5,
@@ -5563,6 +6044,7 @@
           },
           {
             "tournament_id": "1739",
+            "competition_idx": 2,
             "base_points": 13,
             "rank": 15,
             "points": 16,
@@ -5583,6 +6065,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-7",
+            "competition_idx": 0,
             "base_points": 11,
             "rank": 2,
             "points": 15,
@@ -5595,6 +6078,7 @@
           },
           {
             "tournament_id": "-21",
+            "competition_idx": 0,
             "base_points": 4,
             "rank": 5,
             "points": 4,
@@ -5610,6 +6094,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1726",
+            "competition_idx": 0,
             "base_points": 15,
             "rank": 20,
             "points": 19,
@@ -5630,6 +6115,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-7",
+            "competition_idx": 0,
             "base_points": 8,
             "rank": 5,
             "points": 8,
@@ -5637,6 +6123,7 @@
           },
           {
             "tournament_id": "-21",
+            "competition_idx": 0,
             "base_points": 5,
             "rank": 4,
             "points": 6,
@@ -5657,6 +6144,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1726",
+            "competition_idx": 0,
             "base_points": 11,
             "rank": 24,
             "points": 14,
@@ -5677,6 +6165,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1739",
+            "competition_idx": 2,
             "base_points": 9,
             "rank": 19,
             "points": 11,
@@ -5697,6 +6186,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-7",
+            "competition_idx": 0,
             "base_points": 9,
             "rank": 4,
             "points": 10,
@@ -5717,6 +6207,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1743",
+            "competition_idx": 0,
             "base_points": 8,
             "rank": 10,
             "points": 8,
@@ -5724,6 +6215,7 @@
           },
           {
             "tournament_id": "1739",
+            "competition_idx": 2,
             "base_points": 1,
             "rank": 27,
             "points": 1,
@@ -5744,6 +6236,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1743",
+            "competition_idx": 0,
             "base_points": 6,
             "rank": 12,
             "points": 6,
@@ -5759,6 +6252,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-21",
+            "competition_idx": 0,
             "base_points": 3,
             "rank": 6,
             "points": 3,
@@ -5774,6 +6268,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1743",
+            "competition_idx": 0,
             "base_points": 3,
             "rank": 15,
             "points": 3,
@@ -5789,6 +6284,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-21",
+            "competition_idx": 0,
             "base_points": 2,
             "rank": 7,
             "points": 2,
@@ -5804,6 +6300,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1743",
+            "competition_idx": 0,
             "base_points": 2,
             "rank": 16,
             "points": 2,
@@ -5819,6 +6316,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1743",
+            "competition_idx": 0,
             "base_points": 1,
             "rank": 17,
             "points": 1,
@@ -5836,6 +6334,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-13",
+            "competition_idx": 3,
             "base_points": 8,
             "rank": 3,
             "points": 12,
@@ -5864,6 +6363,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1726",
+            "competition_idx": 2,
             "base_points": 21,
             "rank": 7,
             "points": 26,
@@ -5876,6 +6376,7 @@
           },
           {
             "tournament_id": "1771",
+            "competition_idx": 0,
             "base_points": 19,
             "rank": 12,
             "points": 24,
@@ -5888,6 +6389,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 1,
             "base_points": 16,
             "rank": 6,
             "points": 16,
@@ -5895,6 +6397,7 @@
           },
           {
             "tournament_id": "-13",
+            "competition_idx": 4,
             "base_points": 35,
             "rank": 6,
             "points": 44,
@@ -5907,6 +6410,7 @@
           },
           {
             "tournament_id": "1814",
+            "competition_idx": 0,
             "base_points": 11,
             "rank": 5,
             "points": 14,
@@ -5927,6 +6431,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1783",
+            "competition_idx": 1,
             "base_points": 13,
             "rank": 9,
             "points": 13,
@@ -5934,6 +6439,7 @@
           },
           {
             "tournament_id": "-13",
+            "competition_idx": 4,
             "base_points": 39,
             "rank": 2,
             "points": 65,
@@ -5950,6 +6456,7 @@
           },
           {
             "tournament_id": "1814",
+            "competition_idx": 0,
             "base_points": 14,
             "rank": 2,
             "points": 23,
@@ -5974,6 +6481,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1783",
+            "competition_idx": 1,
             "base_points": 19,
             "rank": 3,
             "points": 24,
@@ -5986,6 +6494,7 @@
           },
           {
             "tournament_id": "-13",
+            "competition_idx": 4,
             "base_points": 33,
             "rank": 8,
             "points": 41,
@@ -6006,6 +6515,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1726",
+            "competition_idx": 2,
             "base_points": 13,
             "rank": 15,
             "points": 16,
@@ -6018,6 +6528,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 1,
             "base_points": 9,
             "rank": 13,
             "points": 9,
@@ -6025,6 +6536,7 @@
           },
           {
             "tournament_id": "-13",
+            "competition_idx": 4,
             "base_points": 19,
             "rank": 22,
             "points": 24,
@@ -6045,6 +6557,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1726",
+            "competition_idx": 2,
             "base_points": 9,
             "rank": 19,
             "points": 11,
@@ -6057,6 +6570,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 1,
             "base_points": 20,
             "rank": 2,
             "points": 27,
@@ -6077,6 +6591,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1771",
+            "competition_idx": 0,
             "base_points": 4,
             "rank": 27,
             "points": 5,
@@ -6089,6 +6604,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 1,
             "base_points": 6,
             "rank": 16,
             "points": 6,
@@ -6096,6 +6612,7 @@
           },
           {
             "tournament_id": "-13",
+            "competition_idx": 4,
             "base_points": 12,
             "rank": 29,
             "points": 15,
@@ -6108,6 +6625,7 @@
           },
           {
             "tournament_id": "1814",
+            "competition_idx": 0,
             "base_points": 8,
             "rank": 8,
             "points": 10,
@@ -6128,6 +6646,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1783",
+            "competition_idx": 1,
             "base_points": 21,
             "rank": 1,
             "points": 32,
@@ -6148,6 +6667,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1783",
+            "competition_idx": 1,
             "base_points": 17,
             "rank": 5,
             "points": 17,
@@ -6155,6 +6675,7 @@
           },
           {
             "tournament_id": "-13",
+            "competition_idx": 4,
             "base_points": 8,
             "rank": 33,
             "points": 10,
@@ -6175,6 +6696,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1783",
+            "competition_idx": 1,
             "base_points": 12,
             "rank": 10,
             "points": 12,
@@ -6182,6 +6704,7 @@
           },
           {
             "tournament_id": "1814",
+            "competition_idx": 0,
             "base_points": 9,
             "rank": 7,
             "points": 11,
@@ -6202,6 +6725,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1783",
+            "competition_idx": 1,
             "base_points": 18,
             "rank": 4,
             "points": 21,
@@ -6222,6 +6746,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1783",
+            "competition_idx": 1,
             "base_points": 14,
             "rank": 8,
             "points": 14,
@@ -6237,6 +6762,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1783",
+            "competition_idx": 1,
             "base_points": 11,
             "rank": 11,
             "points": 11,
@@ -6252,6 +6778,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1783",
+            "competition_idx": 1,
             "base_points": 10,
             "rank": 12,
             "points": 10,
@@ -6267,6 +6794,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1814",
+            "competition_idx": 0,
             "base_points": 7,
             "rank": 9,
             "points": 9,
@@ -6287,6 +6815,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1726",
+            "competition_idx": 2,
             "base_points": 5,
             "rank": 23,
             "points": 6,
@@ -6299,6 +6828,7 @@
           },
           {
             "tournament_id": "1783",
+            "competition_idx": 1,
             "base_points": 3,
             "rank": 19,
             "points": 3,
@@ -6314,6 +6844,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1783",
+            "competition_idx": 1,
             "base_points": 8,
             "rank": 14,
             "points": 8,
@@ -6329,6 +6860,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1783",
+            "competition_idx": 1,
             "base_points": 5,
             "rank": 17,
             "points": 5,
@@ -6344,6 +6876,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1783",
+            "competition_idx": 1,
             "base_points": 2,
             "rank": 20,
             "points": 2,
@@ -6359,6 +6892,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1783",
+            "competition_idx": 1,
             "base_points": 1,
             "rank": 21,
             "points": 1,
@@ -6374,6 +6908,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-13",
+            "competition_idx": 4,
             "base_points": 1,
             "rank": 40,
             "points": 1,
@@ -6398,6 +6933,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1726",
+            "competition_idx": 3,
             "base_points": 9,
             "rank": 6,
             "points": 11,
@@ -6410,6 +6946,7 @@
           },
           {
             "tournament_id": "-13",
+            "competition_idx": 5,
             "base_points": 24,
             "rank": 5,
             "points": 30,
@@ -6422,6 +6959,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 2,
             "base_points": 30,
             "rank": 1,
             "points": 56,
@@ -6438,6 +6976,7 @@
           },
           {
             "tournament_id": "1814",
+            "competition_idx": 1,
             "base_points": 9,
             "rank": 2,
             "points": 15,
@@ -6462,6 +7001,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1726",
+            "competition_idx": 3,
             "base_points": 10,
             "rank": 5,
             "points": 12,
@@ -6474,6 +7014,7 @@
           },
           {
             "tournament_id": "1794",
+            "competition_idx": 1,
             "base_points": 16,
             "rank": 13,
             "points": 20,
@@ -6486,6 +7027,7 @@
           },
           {
             "tournament_id": "-13",
+            "competition_idx": 5,
             "base_points": 21,
             "rank": 8,
             "points": 26,
@@ -6506,6 +7048,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1794",
+            "competition_idx": 1,
             "base_points": 22,
             "rank": 7,
             "points": 28,
@@ -6518,6 +7061,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 2,
             "base_points": 21,
             "rank": 10,
             "points": 26,
@@ -6538,6 +7082,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-13",
+            "competition_idx": 5,
             "base_points": 19,
             "rank": 10,
             "points": 24,
@@ -6550,6 +7095,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 2,
             "base_points": 23,
             "rank": 8,
             "points": 29,
@@ -6570,6 +7116,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1790",
+            "competition_idx": 2,
             "base_points": 28,
             "rank": 3,
             "points": 44,
@@ -6594,6 +7141,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1790",
+            "competition_idx": 2,
             "base_points": 27,
             "rank": 4,
             "points": 39,
@@ -6618,6 +7166,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1790",
+            "competition_idx": 2,
             "base_points": 26,
             "rank": 5,
             "points": 32,
@@ -6638,6 +7187,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1790",
+            "competition_idx": 2,
             "base_points": 25,
             "rank": 6,
             "points": 31,
@@ -6658,6 +7208,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-13",
+            "competition_idx": 5,
             "base_points": 22,
             "rank": 7,
             "points": 28,
@@ -6678,6 +7229,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1790",
+            "competition_idx": 2,
             "base_points": 22,
             "rank": 9,
             "points": 28,
@@ -6698,6 +7250,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1790",
+            "competition_idx": 2,
             "base_points": 20,
             "rank": 11,
             "points": 25,
@@ -6718,6 +7271,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-13",
+            "competition_idx": 5,
             "base_points": 14,
             "rank": 15,
             "points": 18,
@@ -6730,6 +7284,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 2,
             "base_points": 5,
             "rank": 26,
             "points": 6,
@@ -6742,6 +7297,7 @@
           },
           {
             "tournament_id": "1814",
+            "competition_idx": 1,
             "base_points": 1,
             "rank": 10,
             "points": 1,
@@ -6762,6 +7318,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1790",
+            "competition_idx": 2,
             "base_points": 18,
             "rank": 13,
             "points": 22,
@@ -6782,6 +7339,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1726",
+            "competition_idx": 3,
             "base_points": 3,
             "rank": 12,
             "points": 4,
@@ -6794,6 +7352,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 2,
             "base_points": 14,
             "rank": 17,
             "points": 18,
@@ -6814,6 +7373,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1790",
+            "competition_idx": 2,
             "base_points": 16,
             "rank": 15,
             "points": 20,
@@ -6834,6 +7394,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-13",
+            "competition_idx": 5,
             "base_points": 13,
             "rank": 16,
             "points": 16,
@@ -6854,6 +7415,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-13",
+            "competition_idx": 5,
             "base_points": 12,
             "rank": 17,
             "points": 15,
@@ -6874,6 +7436,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1790",
+            "competition_idx": 2,
             "base_points": 11,
             "rank": 20,
             "points": 14,
@@ -6894,6 +7457,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1726",
+            "competition_idx": 3,
             "base_points": 2,
             "rank": 13,
             "points": 2,
@@ -6906,6 +7470,7 @@
           },
           {
             "tournament_id": "1790",
+            "competition_idx": 2,
             "base_points": 9,
             "rank": 22,
             "points": 11,
@@ -6926,6 +7491,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1790",
+            "competition_idx": 2,
             "base_points": 10,
             "rank": 21,
             "points": 12,
@@ -6946,6 +7512,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1790",
+            "competition_idx": 2,
             "base_points": 6,
             "rank": 25,
             "points": 8,
@@ -6970,6 +7537,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1739",
+            "competition_idx": 3,
             "base_points": 18,
             "rank": 7,
             "points": 22,
@@ -6982,6 +7550,7 @@
           },
           {
             "tournament_id": "1771",
+            "competition_idx": 2,
             "base_points": 5,
             "rank": 14,
             "points": 6,
@@ -6994,6 +7563,7 @@
           },
           {
             "tournament_id": "-10",
+            "competition_idx": 2,
             "base_points": 28,
             "rank": 3,
             "points": 44,
@@ -7018,6 +7588,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1739",
+            "competition_idx": 3,
             "base_points": 23,
             "rank": 2,
             "points": 38,
@@ -7042,6 +7613,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1739",
+            "competition_idx": 3,
             "base_points": 21,
             "rank": 4,
             "points": 30,
@@ -7066,6 +7638,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1771",
+            "competition_idx": 2,
             "base_points": 11,
             "rank": 8,
             "points": 14,
@@ -7078,6 +7651,7 @@
           },
           {
             "tournament_id": "-10",
+            "competition_idx": 2,
             "base_points": 1,
             "rank": 30,
             "points": 1,
@@ -7098,6 +7672,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1739",
+            "competition_idx": 3,
             "base_points": 3,
             "rank": 22,
             "points": 4,
@@ -7122,6 +7697,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-10",
+            "competition_idx": 1,
             "base_points": 23,
             "rank": 8,
             "points": 29,
@@ -7146,6 +7722,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-10",
+            "competition_idx": 3,
             "base_points": 16,
             "rank": 3,
             "points": 25,
@@ -7170,6 +7747,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-10",
+            "competition_idx": 3,
             "base_points": 8,
             "rank": 11,
             "points": 10,
@@ -7194,6 +7772,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-9",
+            "competition_idx": 1,
             "base_points": 18,
             "rank": 2,
             "points": 24,
@@ -7206,6 +7785,7 @@
           },
           {
             "tournament_id": "1794",
+            "competition_idx": 2,
             "base_points": 23,
             "rank": 9,
             "points": 29,
@@ -7226,6 +7806,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1794",
+            "competition_idx": 2,
             "base_points": 26,
             "rank": 6,
             "points": 32,
@@ -7246,6 +7827,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-9",
+            "competition_idx": 1,
             "base_points": 19,
             "rank": 1,
             "points": 28,
@@ -7266,6 +7848,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-9",
+            "competition_idx": 1,
             "base_points": 17,
             "rank": 3,
             "points": 21,
@@ -7286,6 +7869,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1794",
+            "competition_idx": 2,
             "base_points": 17,
             "rank": 15,
             "points": 21,
@@ -7306,6 +7890,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-9",
+            "competition_idx": 1,
             "base_points": 16,
             "rank": 4,
             "points": 19,
@@ -7326,6 +7911,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1794",
+            "competition_idx": 2,
             "base_points": 14,
             "rank": 18,
             "points": 18,
@@ -7346,6 +7932,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-9",
+            "competition_idx": 1,
             "base_points": 14,
             "rank": 6,
             "points": 14,
@@ -7361,6 +7948,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "1794",
+            "competition_idx": 2,
             "base_points": 11,
             "rank": 21,
             "points": 14,
@@ -7381,6 +7969,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-9",
+            "competition_idx": 1,
             "base_points": 13,
             "rank": 7,
             "points": 13,
@@ -7396,6 +7985,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-9",
+            "competition_idx": 1,
             "base_points": 12,
             "rank": 8,
             "points": 12,
@@ -7411,6 +8001,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-9",
+            "competition_idx": 1,
             "base_points": 11,
             "rank": 9,
             "points": 11,
@@ -7426,6 +8017,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-9",
+            "competition_idx": 1,
             "base_points": 10,
             "rank": 10,
             "points": 10,
@@ -7441,6 +8033,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-9",
+            "competition_idx": 1,
             "base_points": 9,
             "rank": 11,
             "points": 9,
@@ -7456,6 +8049,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-9",
+            "competition_idx": 1,
             "base_points": 8,
             "rank": 12,
             "points": 8,
@@ -7465,12 +8059,13 @@
         "uncounted_tournaments": []
       },
       {
-        "fencer_id": "-32",
+        "fencer_id": "12167",
         "rank": 16,
         "points": 7,
         "counted_tournaments": [
           {
             "tournament_id": "-9",
+            "competition_idx": 1,
             "base_points": 7,
             "rank": 13,
             "points": 7,
@@ -7486,6 +8081,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-9",
+            "competition_idx": 1,
             "base_points": 6,
             "rank": 14,
             "points": 6,
@@ -7501,6 +8097,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-9",
+            "competition_idx": 1,
             "base_points": 5,
             "rank": 15,
             "points": 5,
@@ -7516,6 +8113,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-9",
+            "competition_idx": 1,
             "base_points": 4,
             "rank": 16,
             "points": 4,
@@ -7525,12 +8123,13 @@
         "uncounted_tournaments": []
       },
       {
-        "fencer_id": "-33",
+        "fencer_id": "12168",
         "rank": 20,
         "points": 3,
         "counted_tournaments": [
           {
             "tournament_id": "-9",
+            "competition_idx": 1,
             "base_points": 3,
             "rank": 17,
             "points": 3,
@@ -7546,6 +8145,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-9",
+            "competition_idx": 1,
             "base_points": 2,
             "rank": 18,
             "points": 2,
@@ -7561,6 +8161,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-9",
+            "competition_idx": 1,
             "base_points": 1,
             "rank": 19,
             "points": 1,
@@ -7580,6 +8181,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-21",
+            "competition_idx": 1,
             "base_points": 7,
             "rank": 2,
             "points": 9,
@@ -7600,6 +8202,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-21",
+            "competition_idx": 1,
             "base_points": 6,
             "rank": 3,
             "points": 8,
@@ -7620,6 +8223,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-21",
+            "competition_idx": 1,
             "base_points": 5,
             "rank": 4,
             "points": 6,
@@ -7640,6 +8244,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-21",
+            "competition_idx": 1,
             "base_points": 4,
             "rank": 5,
             "points": 4,
@@ -7649,12 +8254,13 @@
         "uncounted_tournaments": []
       },
       {
-        "fencer_id": "-8",
+        "fencer_id": "12166",
         "rank": 5,
         "points": 3,
         "counted_tournaments": [
           {
             "tournament_id": "-21",
+            "competition_idx": 1,
             "base_points": 3,
             "rank": 6,
             "points": 3,
@@ -7670,6 +8276,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-21",
+            "competition_idx": 1,
             "base_points": 2,
             "rank": 7,
             "points": 2,
@@ -7685,6 +8292,7 @@
         "counted_tournaments": [
           {
             "tournament_id": "-21",
+            "competition_idx": 1,
             "base_points": 1,
             "rank": 8,
             "points": 1,

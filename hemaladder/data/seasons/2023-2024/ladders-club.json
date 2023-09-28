@@ -48,15 +48,11 @@
         "club_id": "790"
       },
       {
-        "points": 100,
+        "points": 65,
         "fencers": [
           {
             "fencer_id": "7298",
             "points": 65
-          },
-          {
-            "fencer_id": "2039",
-            "points": 35
           }
         ]
       },
@@ -111,8 +107,12 @@
         "club_id": "1115"
       },
       {
-        "points": 57,
+        "points": 92,
         "fencers": [
+          {
+            "fencer_id": "2039",
+            "points": 35
+          },
           {
             "fencer_id": "10202",
             "points": 31
@@ -253,7 +253,8 @@
             "fencer_id": "1478",
             "points": 3
           }
-        ]
+        ],
+        "club_id": "285"
       }
     ]
   },

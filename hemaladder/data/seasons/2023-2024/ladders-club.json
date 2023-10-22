@@ -279,19 +279,19 @@
   "sb": {
     "mo": [
       {
-        "points": 123,
+        "points": 191,
         "fencers": [
           {
             "fencer_id": "5822",
             "points": 73
           },
           {
-            "fencer_id": "11278",
-            "points": 17
+            "fencer_id": "1471",
+            "points": 56
           },
           {
-            "fencer_id": "1471",
-            "points": 16
+            "fencer_id": "11278",
+            "points": 45
           },
           {
             "fencer_id": "-46",

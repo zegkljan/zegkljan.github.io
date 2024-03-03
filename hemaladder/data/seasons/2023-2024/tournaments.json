@@ -816,7 +816,7 @@
       }
     ]
   },
-  "-29": {
+  "1983": {
     "name": "Helsinki Longsword Open 2024",
     "date": "2024-01-19",
     "country": "fi",
@@ -864,6 +864,163 @@
           { "fencer_id": "3631", "rank": 11 }
         ],
         "results_link": "https://hemagon.com/tournament/hlo24/nomination/hlo24-osb"
+      }
+    ]
+  },
+  "1997": {
+    "name": "Rotyčí spár 2024",
+    "date": "2024-02-10",
+    "country": "cz",
+    "competitions": [
+      {
+        "division": "ls",
+        "category": "mo",
+        "no_participants": 44,
+        "results": [
+          { "fencer_id": "7991", "rank": 1 },
+          { "fencer_id": "5822", "rank": 2 },
+          { "fencer_id": "2041", "rank": 4 },
+          { "fencer_id": "6753", "rank": 5 },
+          { "fencer_id": "10136", "rank": 6 },
+          { "fencer_id": "8907", "rank": 7 },
+          { "fencer_id": "1471", "rank": 9 },
+          { "fencer_id": "7298", "rank": 11 },
+          { "fencer_id": "9349", "rank": 12 },
+          { "fencer_id": "3631", "rank": 13 },
+          { "fencer_id": "152", "rank": 15 },
+          { "fencer_id": "9271", "rank": 16 },
+          { "fencer_id": "12855", "rank": 17 },
+          { "fencer_id": "7825", "rank": 18 },
+          { "fencer_id": "10349", "rank": 19 },
+          { "fencer_id": "3481", "rank": 20 },
+          { "fencer_id": "6755", "rank": 22 },
+          { "fencer_id": "10058", "rank": 23 },
+          { "fencer_id": "11074", "rank": 24 },
+          { "fencer_id": "8935", "rank": 25 },
+          { "fencer_id": "6598", "rank": 26 },
+          { "fencer_id": "12786", "rank": 28 },
+          { "fencer_id": "11689", "rank": 29 },
+          { "fencer_id": "11067", "rank": 30 },
+          { "fencer_id": "9339", "rank": 31 },
+          { "fencer_id": "10053", "rank": 32 },
+          { "fencer_id": "9637", "rank": 34 },
+          { "fencer_id": "11279", "rank": 35 },
+          { "fencer_id": "12553", "rank": 36 },
+          { "fencer_id": "13397", "rank": 37 },
+          { "fencer_id": "11308", "rank": 38 },
+          { "fencer_id": "10347", "rank": 39 },
+          { "fencer_id": "13596", "rank": 40 },
+          { "fencer_id": "13595", "rank": 42 },
+          { "fencer_id": "11162", "rank": 43 }
+        ],
+        "results_link": "https://docs.google.com/spreadsheets/d/1_TLAJbUNLRrU7Y85SaIkUIo3jSkKHwyS"
+      },
+      {
+        "division": "rad",
+        "category": "mo",
+        "no_participants": 19,
+        "results": [
+          { "fencer_id": "9598", "rank": 1 },
+          { "fencer_id": "2090", "rank": 3 },
+          { "fencer_id": "3631", "rank": 5 },
+          { "fencer_id": "11158", "rank": 6 },
+          { "fencer_id": "7837", "rank": 7 },
+          { "fencer_id": "8907", "rank": 8 },
+          { "fencer_id": "3626", "rank": 9 },
+          { "fencer_id": "12167", "rank": 10 },
+          { "fencer_id": "10193", "rank": 12 },
+          { "fencer_id": "13599", "rank": 13 },
+          { "fencer_id": "9350", "rank": 15 },
+          { "fencer_id": "5118", "rank": 16 },
+          { "fencer_id": "6598", "rank": 17 },
+          { "fencer_id": "13205", "rank": 18 },
+          { "fencer_id": "13598", "rank": 19 }
+        ],
+        "results_link": "https://docs.google.com/spreadsheets/d/1_TLAJbUNLRrU7Y85SaIkUIo3jSkKHwyS"
+      }
+    ]
+  },
+  "1998": {
+    "name": "FechtBerg 2024",
+    "date": "2024-02-17",
+    "country": "pl",
+    "competitions": [
+      {
+        "division": "sb",
+        "category": "mo",
+        "no_participants": 58,
+        "results": [
+          {"fencer_id": "9635", "rank": 7 },
+          {"fencer_id": "8907", "rank": 10 },
+          {"fencer_id": "2090", "rank": 11 },
+          {"fencer_id": "11158", "rank": 26 },
+          {"fencer_id": "3631", "rank": 28 },
+          {"fencer_id": "10057", "rank": 53 }
+        ],
+        "results_link": "https://hemascorecard.com/finalsBracket.php?e=470&t=1999&m=0#"
+      },
+      {
+        "division": "ls",
+        "category": "mo",
+        "no_participants": 55,
+        "results": [
+          { "fencer_id": "2090", "rank": 1 },
+          { "fencer_id": "8907", "rank": 9 },
+          { "fencer_id": "11158", "rank": 12 },
+          { "fencer_id": "3631", "rank": 13 },
+          { "fencer_id": "9635", "rank": 14 },
+          { "fencer_id": "9350", "rank": 15 },
+          { "fencer_id": "10346", "rank": 30 },
+          { "fencer_id": "10057", "rank": 38 },
+          { "fencer_id": "12854", "rank": 40 }
+        ],
+        "results_link": "https://hemascorecard.com/finalsBracket.php?e=470&t=1998&m=0#"
+      },
+      {
+        "division": "sab",
+        "category": "mo",
+        "no_participants": 34,
+        "results": [
+          { "fencer_id": "2090", "rank": 1 },
+          { "fencer_id": "11158", "rank": 7 },
+          { "fencer_id": "8907", "rank": 11 },
+          { "fencer_id": "12854", "rank": 12 },
+          { "fencer_id": "9635", "rank": 15 },
+          { "fencer_id": "3631", "rank": 18 },
+          { "fencer_id": "9350", "rank": 22 }
+        ],
+        "results_link": "https://hemascorecard.com/finalsBracket.php?e=470&t=2000&m=0#"
+      },
+      {
+        "division": "rad",
+        "category": "mo",
+        "no_participants": 33,
+        "results": [
+          { "fencer_id": "2090", "rank": 1 },
+          { "fencer_id": "9635", "rank": 8 },
+          { "fencer_id": "3631", "rank": 17 },
+          { "fencer_id": "9350", "rank": 19 },
+          { "fencer_id": "8907", "rank": 26 }
+        ],
+        "results_link": "https://hemascorecard.com/finalsBracket.php?e=470&t=2001&m=0#"
+      }
+    ]
+  },
+  "-29": {
+    "name": "Symphony of Steel 2024",
+    "date": "2024-02-24",
+    "country": "de",
+    "competitions": [
+      {
+        "division": "ls",
+        "category": "mo",
+        "no_participants": 34,
+        "results": [
+          { "fencer_id": "7298", "rank": 1 },
+          { "fencer_id": "3631", "rank": 4 },
+          { "fencer_id": "7829", "rank": 27 }
+        ],
+        "results_link": "https://hemascorecard.com/finalsBracket.php?e=416&t=1843&m=0#"
       }
     ]
   }

@@ -1,106 +1,83 @@
 {
   "985": {
-    "name": "Adeptus",
-    "country": "cz"
+    "name": "Adeptus"
   },
   "1418": {
-    "name": "Ars Dimicatoria",
-    "country": "cz"
+    "name": "Ars Dimicatoria"
   },
   "286": {
-    "name": "Bellátor",
-    "country": "cz"
+    "name": "Bellátor"
   },
   "786": {
-    "name": "Brněnští Fechteři",
-    "country": "cz"
+    "name": "Brněnští Fechteři"
   },
   "285": {
-    "name": "Digladior",
-    "country": "cz"
+    "name": "Digladior"
   },
   "787": {
-    "name": "Digladior Plzeň",
-    "country": "cz"
+    "name": "Digladior Plzeň"
   },
   "393": {
-    "name": "Dobrovolný Šerm",
-    "country": "cz"
+    "name": "Dobrovolný Šerm"
   },
   "983": {
-    "name": "Duelanti od Svatého Rocha",
-    "country": "cz"
+    "name": "Duelanti od Svatého Rocha"
   },
   "1171": {
-    "name": "HELOPS",
-    "country": "cz"
+    "name": "HELOPS"
   },
   "1357": {
-    "name": "HEMA Praha",
-    "country": "cz"
+    "name": "HEMA Praha"
   },
   "1417": {
-    "name": "Manus Regis",
-    "country": "cz"
+    "name": "Manus Regis"
+  },
+  "1544": {
+    "name": "Non Sancti"
   },
   "288": {
-    "name": "Pardubický spolek šermířský",
-    "country": "cz"
+    "name": "Pardubický spolek šermířský"
   },
   "1125": {
-    "name": "Poslední Argument",
-    "country": "cz"
+    "name": "Poslední Argument"
   },
   "1273": {
-    "name": "Rapír klub Praha (Rapier club Prague)",
-    "country": "cz"
+    "name": "Rapír klub Praha (Rapier club Prague)"
   },
   "790": {
-    "name": "Rotyka",
-    "country": "cz"
+    "name": "Rotyka"
   },
   "655": {
-    "name": "Rožnovsky šermirsky klub",
-    "country": "cz"
+    "name": "Rožnovsky šermirsky klub"
   },
   "362": {
-    "name": "SHŠ Krkavci",
-    "country": "cz"
+    "name": "SHŠ Krkavci"
   },
   "903": {
-    "name": "Sportovní Klub Středověkého Kontaktního Boje Praha",
-    "country": "cz"
+    "name": "Sportovní Klub Středověkého Kontaktního Boje Praha"
   },
   "1157": {
-    "name": "Sportovní šerm Tábor",
-    "country": "cz"
+    "name": "Sportovní šerm Tábor"
   },
   "1115": {
-    "name": "Šermírna Luka",
-    "country": "cz"
+    "name": "Šermírna Luka"
   },
   "290": {
-    "name": "Škola šermu Paridon",
-    "country": "cz"
+    "name": "Škola šermu Paridon"
   },
   "446": {
-    "name": "T. J. Sokol České Budějovice",
-    "country": "cz"
+    "name": "T. J. Sokol České Budějovice"
   },
   "-1": {
-    "name": "Česká zemská šermírna",
-    "country": "cz"
+    "name": "Česká zemská šermírna"
   },
   "-2": {
-    "name": "FFG Ostrava",
-    "country": "cz"
+    "name": "FFG Ostrava"
   },
   "-3": {
-    "name": "Ballestra Telč - Paridon",
-    "country": "cz"
+    "name": "Ballestra Telč - Paridon"
   },
   "-4": {
-    "name": "KEBU Plzeň Paridon",
-    "country": "cz"
+    "name": "KEBU Plzeň Paridon"
   }
 }

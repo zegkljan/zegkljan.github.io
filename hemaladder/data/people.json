@@ -163,6 +163,11 @@
     "name": "Pavel",
     "nationality": "cz"
   },
+  "13208": {
+    "surname": "Hála",
+    "name": "Petr",
+    "nationality": "cz"
+  },
   "11298": {
     "surname": "Heinz",
     "name": "Lukáš",
@@ -241,6 +246,11 @@
   "11308": {
     "surname": "Jurko",
     "name": "Roman",
+    "nationality": "cz"
+  },
+  "13724": {
+    "surname": "Jurková",
+    "name": "Linda",
     "nationality": "cz"
   },
   "12854": {
@@ -844,11 +854,6 @@
   "-1": {
     "surname": "Šrajer",
     "name": "Matěj",
-    "nationality": "cz"
-  },
-  "-3": {
-    "surname": "Hála",
-    "name": "Petr",
     "nationality": "cz"
   },
   "-5": {

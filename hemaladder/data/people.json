@@ -153,6 +153,11 @@
     "surname": "Futáš",
     "name": "Filip"
   },
+  "1146": {
+    "surname": "Gorbulinskaja",
+    "name": "Anna",
+    "nationality": "ru"
+  },
   "12166": {
     "surname": "Gruber",
     "name": "Jan",
@@ -196,6 +201,11 @@
   "7825": {
     "surname": "Horňák",
     "name": "Matěj",
+    "nationality": "cz"
+  },
+  "12129": {
+    "surname": "Hořejší",
+    "name": "Michal",
     "nationality": "cz"
   },
   "2760": {
@@ -907,8 +917,60 @@
     "nationality": "cz"
   },
   "-49": {
+    "surname": "Sedlár",
+    "name": "Ondřej",
+    "nationality": "cz"
+  },
+  "-50": {
+    "surname": "Kroužek",
+    "name": "Vojtěch",
+    "nationality": "cz"
+  },
+  "-51": {
+    "surname": "Tovt",
+    "name": "Vladislav",
+    "nationality": "ru"
+  },
+  "-52": {
+    "surname": "Koryčanský",
+    "name": "Roman"
+  },
+  "-53": {
+    "surname": "McMahon-Smith",
+    "name": "Aidan"
+  },
+  "-54": {
+    "surname": "Palenik",
+    "name": "Matej",
+    "nationality": "cz"
+  },
+  "-55": {
+    "surname": "Bondar",
+    "name": "Illia",
+    "nationality": "ru"
+  },
+  "-56": {
+    "surname": "Bucchi",
+    "name": "Frederico"
+  },
+  "-57": {
+    "surname": "Kotroušová",
+    "name": "Denisa",
+    "nationality": "cz"
+  },
+  "-58": {
+    "surname": "Štáblová",
+    "name": "Taťána",
+    "nationality": "cz"
+  },
+  "-59": {
+    "surname": "Bok",
+    "name": "Radim",
+    "nationality": "cz"
+  },
+  "-60": {
     "surname": "...",
     "name": "...",
-    "nationality": "cz"
+    "nationality": "..."
   }
 }

@@ -1,153 +1,135 @@
 {
   "12853": {
     "surname": "Barák",
-    "name": "David",
-    "nationality": "cz"
+    "name": "David"
   },
   "9639": {
     "surname": "Beneš",
-    "name": "Jan",
-    "nationality": "cz"
+    "name": "Jan"
   },
   "11294": {
     "surname": "Beneš",
-    "name": "Michael",
-    "nationality": "cz"
+    "name": "Michael"
   },
   "11069": {
     "surname": "Belina",
-    "name": "Michal",
-    "nationality": "cz"
+    "name": "Michal"
   },
   "10391": {
     "surname": "Biško",
-    "name": "Jan",
-    "nationality": "cz"
+    "name": "Jan"
   },
   "9635": {
     "surname": "Blažek",
-    "name": "Honza",
-    "nationality": "cz"
+    "name": "Honza"
   },
   "11296": {
     "surname": "Bobula",
-    "name": "Ondrej",
-    "nationality": "cz"
+    "name": "Ondrej"
   },
   "10346": {
     "surname": "Boček",
-    "name": "Martin",
-    "nationality": "cz"
+    "name": "Martin"
   },
   "12856": {
     "surname": "Boček",
-    "name": "Štěpán",
-    "nationality": "cz"
+    "name": "Štěpán"
+  },
+  "13902": {
+    "surname": "Bok",
+    "name": "Radim"
+  },
+  "13896": {
+    "surname": "Bondar",
+    "name": "Illia"
   },
   "1465": {
     "surname": "Böhm",
-    "name": "Pavel",
-    "nationality": "cz"
+    "name": "Pavel"
   },
   "2090": {
     "surname": "Brýdl",
-    "name": "Zdeněk",
-    "nationality": "cz"
+    "name": "Zdeněk"
+  },
+  "13895": {
+    "surname": "Bucchi",
+    "name": "Frederico"
   },
   "11835": {
     "surname": "Buchta",
-    "name": "Adam",
-    "nationality": "cz"
+    "name": "Adam"
   },
   "9600": {
     "surname": "Burešová",
-    "name": "Klára",
-    "nationality": "cz"
+    "name": "Klára"
   },
   "11074": {
     "surname": "Cizl",
-    "name": "Eliáš",
-    "nationality": "cz"
+    "name": "Eliáš"
   },
   "12713": {
     "surname": "Chalupa",
-    "name": "Miroslav",
-    "nationality": "cz"
+    "name": "Miroslav"
   },
   "9270": {
     "surname": "Čarek",
-    "name": "Jiří",
-    "nationality": "cz"
+    "name": "Jiří"
   },
   "6597": {
     "surname": "Čechura",
-    "name": "Jaroslav",
-    "nationality": "cz"
+    "name": "Jaroslav"
   },
   "7828": {
     "surname": "Čermáková Lukšová",
-    "name": "Zuzana",
-    "nationality": "cz"
+    "name": "Zuzana"
   },
   "10347": {
     "surname": "Černý",
-    "name": "Martin",
-    "nationality": "cz"
+    "name": "Martin"
   },
   "13599": {
     "surname": "Černý",
-    "name": "Petr",
-    "nationality": "cz"
+    "name": "Petr"
   },
   "12162": {
     "surname": "Daneš",
-    "name": "Karel",
-    "nationality": "cz"
+    "name": "Karel"
   },
   "11157": {
     "surname": "Demeter",
-    "name": "David",
-    "nationality": "cz"
+    "name": "David"
   },
   "7835": {
     "surname": "Diviš",
-    "name": "Milan",
-    "nationality": "cz"
+    "name": "Milan"
   },
   "6596": {
     "surname": "Doms",
-    "name": "Ján",
-    "nationality": "sk"
+    "name": "Ján"
   },
   "10202": {
     "surname": "Doseděl",
-    "name": "Tomáš",
-    "nationality": "cz"
+    "name": "Tomáš"
   },
   "5822": {
     "surname": "Dostál",
-    "name": "Pavel",
-    "nationality": "cz"
+    "name": "Pavel"
   },
   "13082": {
     "surname": "Dufek",
-    "name": "Tomáš",
-    "nationality": "cz"
+    "name": "Tomáš"
   },
   "6598": {
     "surname": "Erlebach",
-    "name": "Petr",
-    "nationality": "cz"
+    "name": "Petr"
   },
   "10053": {
     "surname": "Filip",
-    "name": "Jan",
-    "nationality": "cz"
+    "name": "Jan"
   },
   "12165": {
     "surname": "Forejt",
-    "name": "Vojtěch",
-    "nationality": "cz"
+    "name": "Vojtěch"
   },
   "13078": {
     "surname": "Futáš",
@@ -155,628 +137,535 @@
   },
   "1146": {
     "surname": "Gorbulinskaja",
-    "name": "Anna",
-    "nationality": "ru"
+    "name": "Anna"
   },
   "12166": {
     "surname": "Gruber",
-    "name": "Jan",
-    "nationality": "cz"
+    "name": "Jan"
   },
   "12553": {
     "surname": "Grussmann",
-    "name": "Pavel",
-    "nationality": "cz"
+    "name": "Pavel"
   },
   "13208": {
     "surname": "Hála",
-    "name": "Petr",
-    "nationality": "cz"
+    "name": "Petr"
   },
   "11298": {
     "surname": "Heinz",
-    "name": "Lukáš",
-    "nationality": "cz"
+    "name": "Lukáš"
   },
   "6753": {
     "surname": "Herčík",
-    "name": "Ondřej",
-    "nationality": "cz"
+    "name": "Ondřej"
   },
   "11392": {
     "surname": "Horansý",
-    "name": "Marek",
-    "nationality": "cz"
+    "name": "Marek"
   },
   "11072": {
     "surname": "Horák",
-    "name": "Martin",
-    "nationality": "cz"
+    "name": "Martin"
   },
   "4783": {
     "surname": "Horák",
-    "name": "Milan",
-    "nationality": "cz"
+    "name": "Milan"
   },
   "7825": {
     "surname": "Horňák",
-    "name": "Matěj",
-    "nationality": "cz"
+    "name": "Matěj"
   },
   "12129": {
     "surname": "Hořejší",
-    "name": "Michal",
-    "nationality": "cz"
+    "name": "Michal"
   },
   "2760": {
     "surname": "Hosman",
-    "name": "Milan",
-    "nationality": "cz"
+    "name": "Milan"
   },
   "1471": {
     "surname": "Hozák",
-    "name": "Kamil",
-    "nationality": "cz"
+    "name": "Kamil"
   },
   "5826": {
     "surname": "Hruška",
-    "name": "Zdeněk",
-    "nationality": "cz"
+    "name": "Zdeněk"
   },
   "8934": {
     "surname": "Hubař",
-    "name": "Jan",
-    "nationality": "cz"
+    "name": "Jan"
   },
   "11287": {
     "surname": "Hudínek",
-    "name": "Šimon",
-    "nationality": "cz"
+    "name": "Šimon"
   },
   "8906": {
     "surname": "Jandečka",
-    "name": "David",
-    "nationality": "cz"
+    "name": "David"
   },
   "9349": {
     "surname": "Janeček",
-    "name": "Viktor",
-    "nationality": "cz"
+    "name": "Viktor"
   },
   "8935": {
     "surname": "Javůrek",
-    "name": "David",
-    "nationality": "cz"
+    "name": "David"
   },
   "11071": {
     "surname": "Jeřábek",
-    "name": "David",
-    "nationality": "cz"
+    "name": "David"
   },
   "11308": {
     "surname": "Jurko",
-    "name": "Roman",
-    "nationality": "cz"
+    "name": "Roman"
   },
   "13724": {
     "surname": "Jurková",
-    "name": "Linda",
-    "nationality": "cz"
+    "name": "Linda"
   },
   "12854": {
     "surname": "Kantor",
-    "name": "Martin",
-    "nationality": "cz"
+    "name": "Martin"
   },
   "1473": {
     "surname": "Kazelle",
-    "name": "Kamil",
-    "nationality": "cz"
+    "name": "Kamil"
   },
   "3624": {
     "surname": "Kliment",
-    "name": "Viktor",
-    "nationality": "cz"
+    "name": "Viktor"
   },
   "12852": {
     "surname": "Kolovrátník",
-    "name": "Petr",
-    "nationality": "cz"
+    "name": "Petr"
   },
   "13598": {
     "surname": "Kopp",
-    "name": "Marek",
-    "nationality": "cz"
+    "name": "Marek"
+  },
+  "13899": {
+    "surname": "Koryčanský",
+    "name": "Roman"
   },
   "6601": {
     "surname": "Kosán",
-    "name": "Aleš",
-    "nationality": "cz"
+    "name": "Aleš"
   },
   "11393": {
     "surname": "Kostelný",
-    "name": "Adam",
-    "nationality": "cz"
+    "name": "Adam"
   },
   "7827": {
     "surname": "Kostka",
-    "name": "Roman",
-    "nationality": "cz"
+    "name": "Roman"
+  },
+  "13891": {
+    "surname": "Kotroušová",
+    "name": "Denisa"
   },
   "9101": {
     "surname": "Koutecký",
-    "name": "Zdeněk",
-    "nationality": "cz"
+    "name": "Zdeněk"
   },
   "11306": {
     "surname": "Koutský",
-    "name": "Martin",
-    "nationality": "cz"
+    "name": "Martin"
   },
   "11034": {
     "surname": "Kovárník",
-    "name": "Tomáš",
-    "nationality": "cz"
+    "name": "Tomáš"
   },
   "11060": {
     "surname": "Kozlová",
-    "name": "Miroslava",
-    "nationality": "cz"
+    "name": "Miroslava"
   },
   "11067": {
     "surname": "Král",
-    "name": "Michal",
-    "nationality": "cz"
+    "name": "Michal"
   },
   "11286": {
     "surname": "Kretek",
-    "name": "Tomáš",
-    "nationality": "cz"
+    "name": "Tomáš"
   },
   "10057": {
     "surname": "Krhutek",
-    "name": "Matouš",
-    "nationality": "cz"
+    "name": "Matouš"
+  },
+  "12128": {
+    "surname": "Kroužek",
+    "name": "Vojtěch Jan"
   },
   "9338": {
     "surname": "Kubacki",
-    "name": "Lukáš",
-    "nationality": "cz"
+    "name": "Lukáš"
   },
   "4785": {
     "surname": "Kubalík",
-    "name": "Vojtěch",
-    "nationality": "cz"
+    "name": "Vojtěch"
   },
   "10348": {
     "surname": "Kubinec",
-    "name": "Samuel",
-    "nationality": "cz"
+    "name": "Samuel"
   },
   "13205": {
     "surname": "Kubík",
-    "name": "Lukáš",
-    "nationality": "cz"
+    "name": "Lukáš"
   },
   "11058": {
     "surname": "Kudráč",
-    "name": "Vladimír",
-    "nationality": "cz"
+    "name": "Vladimír"
   },
   "13397": {
     "surname": "Kulik",
-    "name": "Aleksandr",
-    "nationality": "cz"
+    "name": "Aleksandr"
   },
   "3481": {
     "surname": "Kurian",
-    "name": "Matúš",
-    "nationality": "sk"
+    "name": "Matúš"
   },
   "11284": {
     "surname": "Kuzder",
-    "name": "Dávid",
-    "nationality": "sk"
+    "name": "Dávid"
   },
   "10054": {
     "surname": "Laštovička",
-    "name": "Tomáš",
-    "nationality": "cz"
+    "name": "Tomáš"
   },
   "10392": {
     "surname": "Lazar",
-    "name": "Václav",
-    "nationality": "cz"
+    "name": "Václav"
   },
   "9102": {
     "surname": "Ledašil",
-    "name": "Martin",
-    "nationality": "cz"
+    "name": "Martin"
   },
   "11689": {
     "surname": "Leushin",
-    "name": "Nikolai",
-    "nationality": "ru"
+    "name": "Nikolai"
   },
   "9352": {
     "surname": "Liberský",
-    "name": "Miroslav",
-    "nationality": "cz"
+    "name": "Miroslav"
   },
   "11279": {
     "surname": "Lieberzeit",
-    "name": "Vladimír",
-    "nationality": "cz"
+    "name": "Vladimír"
   },
   "10135": {
     "surname": "Lizuch",
-    "name": "Roman",
-    "nationality": "cz"
+    "name": "Roman"
   },
   "9103": {
     "surname": "Loukota",
-    "name": "Jakub",
-    "nationality": "cz"
+    "name": "Jakub"
   },
   "9596": {
     "surname": "Lukeš",
-    "name": "Petr",
-    "nationality": "cz"
+    "name": "Petr"
   },
   "1503": {
     "surname": "Malec",
-    "name": "Leoš",
-    "nationality": "cz"
+    "name": "Leoš"
   },
   "9637": {
     "surname": "Malík",
-    "name": "Ondřej",
-    "nationality": "cz"
+    "name": "Ondřej"
   },
   "10395": {
     "surname": "Malíková",
-    "name": "Lucie",
-    "nationality": "cz"
+    "name": "Lucie"
   },
   "11158": {
     "surname": "Malina",
-    "name": "Ondřej",
-    "nationality": "cz"
+    "name": "Ondřej"
   },
   "1478": {
     "surname": "Markupová",
-    "name": "Pavla",
-    "nationality": "cz"
+    "name": "Pavla"
   },
   "4819": {
     "surname": "Mastalerz",
-    "name": "Michal",
-    "nationality": "pl"
+    "name": "Michal"
   },
   "1480": {
     "surname": "Matuška",
-    "name": "Lukáš",
-    "nationality": "cz"
+    "name": "Lukáš"
   },
   "7829": {
     "surname": "Mazanec",
-    "name": "Matej",
-    "nationality": "cz"
+    "name": "Matej"
+  },
+  "13894": {
+    "surname": "McMahon-Smith",
+    "name": "Aidan"
   },
   "12163": {
     "surname": "Melko",
-    "name": "Michal",
-    "nationality": "cz"
+    "name": "Michal"
   },
   "9271": {
     "surname": "Mesarč",
-    "name": "Jan",
-    "nationality": "cz"
+    "name": "Jan"
   },
   "9355": {
     "surname": "Mihula",
-    "name": "Marek",
-    "nationality": "sk"
+    "name": "Marek"
   },
   "11278": {
     "surname": "Modráček",
-    "name": "Jan",
-    "nationality": "cz"
+    "name": "Jan"
   },
   "2037": {
     "surname": "Murgaš",
-    "name": "Karel",
-    "nationality": "cz"
+    "name": "Karel"
   },
   "1512": {
     "surname": "Musil",
-    "name": "Tomáš",
-    "nationality": "cz"
+    "name": "Tomáš"
   },
   "7308": {
     "surname": "Nemec",
-    "name": "Jan",
-    "nationality": "cz"
+    "name": "Jan"
   },
   "2039": {
     "surname": "Nerandžič",
-    "name": "Vladimír",
-    "nationality": "cz"
+    "name": "Vladimír"
   },
   "12164": {
     "surname": "Netopil",
-    "name": "Petr",
-    "nationality": "cz"
+    "name": "Petr"
   },
   "10131": {
     "surname": "Neuman",
-    "name": "Jan",
-    "nationality": "cz"
+    "name": "Jan"
   },
   "10136": {
     "surname": "Nizner",
-    "name": "Josef",
-    "nationality": "cz"
+    "name": "Josef"
   },
   "13595": {
     "surname": "Novák",
-    "name": "Lukáš",
-    "nationality": "cz"
+    "name": "Lukáš"
   },
   "11070": {
     "surname": "Novák",
-    "name": "Vojtěch",
-    "nationality": "cz"
+    "name": "Vojtěch"
   },
   "10192": {
     "surname": "O'Neil",
-    "name": "Ondřej",
-    "nationality": "cz"
+    "name": "Ondřej"
   },
   "12784": {
     "surname": "Okáč",
-    "name": "Jiří",
-    "nationality": "cz"
+    "name": "Jiří"
   },
   "1482": {
     "surname": "Ondra",
-    "name": "Radek",
-    "nationality": "cz"
+    "name": "Radek"
   },
   "9348": {
     "surname": "Országh",
-    "name": "Marián",
-    "nationality": "cz"
+    "name": "Marián"
   },
   "11162": {
     "surname": "Pajonková",
-    "name": "Stanislava",
-    "nationality": "cz"
+    "name": "Stanislava"
+  },
+  "13897": {
+    "surname": "Palenik",
+    "name": "Matej"
   },
   "8907": {
     "surname": "Paščenko",
-    "name": "Petr",
-    "nationality": "cz"
+    "name": "Petr"
   },
   "7831": {
     "surname": "Patala",
-    "name": "Petr",
-    "nationality": "cz"
+    "name": "Petr"
   },
   "8753": {
     "surname": "Paul",
-    "name": "Josef",
-    "nationality": "cz"
+    "name": "Josef"
   },
   "5576": {
     "surname": "Pečiva",
-    "name": "Lubomir",
-    "nationality": "cz"
+    "name": "Lubomir"
   },
   "7837": {
     "surname": "Pekárek",
-    "name": "Jindřich",
-    "nationality": "cz"
+    "name": "Jindřich"
   },
   "3626": {
     "surname": "Pekárek",
-    "name": "Václav",
-    "nationality": "cz"
+    "name": "Václav"
   },
   "5118": {
     "surname": "Petrtýl",
-    "name": "Tomáš",
-    "nationality": "cz"
+    "name": "Tomáš"
   },
   "8905": {
     "surname": "Polanský",
-    "name": "Kryštof",
-    "nationality": "cz"
+    "name": "Kryštof"
   },
   "12786": {
     "surname": "Prochaska",
-    "name": "Adam",
-    "nationality": "cz"
+    "name": "Adam"
   },
   "2138": {
     "surname": "Prokeš",
-    "name": "Honza",
-    "nationality": "cz"
+    "name": "Honza"
   },
   "2139": {
     "surname": "Richter",
-    "name": "Vojtěch",
-    "nationality": "cz"
+    "name": "Vojtěch"
   },
   "10394": {
     "surname": "Ruč",
-    "name": "Ondřej",
-    "nationality": "cz"
+    "name": "Ondřej"
   },
   "10193": {
     "surname": "Rykr",
-    "name": "Vojtěch",
-    "nationality": "cz"
+    "name": "Vojtěch"
   },
   "7991": {
     "surname": "Sakharov",
-    "name": "Matvey",
-    "nationality": "ua"
+    "name": "Matvey"
   },
   "11398": {
     "surname": "Satek",
-    "name": "Patrik",
-    "nationality": "cz"
+    "name": "Patrik"
   },
   "11064": {
     "surname": "Sedláková",
-    "name": "Terezie",
-    "nationality": "cz"
+    "name": "Terezie"
+  },
+  "13898": {
+    "surname": "Sedlár",
+    "name": "Ondřej"
   },
   "9638": {
     "surname": "Shmidt",
-    "name": "Kirill",
-    "nationality": "ru"
+    "name": "Kirill"
   },
   "11297": {
     "surname": "Silnica",
-    "name": "Matěj",
-    "nationality": "cz"
+    "name": "Matěj"
   },
   "10058": {
     "surname": "Slovák",
-    "name": "Jiří",
-    "nationality": "cz"
+    "name": "Jiří"
   },
   "7298": {
     "surname": "Sokol",
-    "name": "Václav",
-    "nationality": "cz"
+    "name": "Václav"
   },
   "152": {
     "surname": "Stankevich",
-    "name": "Alexander",
-    "nationality": "ru"
+    "name": "Alexander"
   },
   "10134": {
     "surname": "Stiess",
-    "name": "Jan",
-    "nationality": "cz"
+    "name": "Jan"
   },
   "10055": {
     "surname": "Suchan",
-    "name": "Jakub",
-    "nationality": "cz"
+    "name": "Jakub"
   },
   "11065": {
     "surname": "Sváčková",
-    "name": "Marie",
-    "nationality": "cz"
+    "name": "Marie"
   },
   "12714": {
     "surname": "Szadkowski",
-    "name": "Rudolf",
-    "nationality": "cz"
+    "name": "Rudolf"
   },
   "13596": {
     "surname": "Šafář",
-    "name": "Miroslav",
-    "nationality": "cz"
+    "name": "Miroslav"
   },
   "11282": {
     "surname": "Šerý",
-    "name": "Martin",
-    "nationality": "cz"
+    "name": "Martin"
   },
   "1488": {
     "surname": "Šilhánek",
-    "name": "Pavel",
-    "nationality": "cz"
+    "name": "Pavel"
   },
   "10194": {
     "surname": "Šindelář",
-    "name": "Jakub",
-    "nationality": "cz"
+    "name": "Jakub"
+  },
+  "13892": {
+    "surname": "Štáblová",
+    "name": "Taťána"
   },
   "2290": {
     "surname": "Štětina",
-    "name": "Jan",
-    "nationality": "cz"
+    "name": "Jan"
   },
   "9602": {
     "surname": "Šváchová",
-    "name": "Nikol",
-    "nationality": "cz"
+    "name": "Nikol"
   },
   "8936": {
     "surname": "Tichý",
-    "name": "Jindřich",
-    "nationality": "cz"
+    "name": "Jindřich"
   },
   "8903": {
     "surname": "Tkáč",
-    "name": "Rudolf",
-    "nationality": "cz"
+    "name": "Rudolf"
   },
   "12855": {
     "surname": "Tomčala",
-    "name": "Radoslav",
-    "nationality": "cz"
+    "name": "Radoslav"
+  },
+  "13900": {
+    "surname": "Tovt",
+    "name": "Vladislav"
   },
   "12161": {
     "surname": "Trnka",
-    "name": "Jiří",
-    "nationality": "cz"
+    "name": "Jiří"
   },
   "9105": {
     "surname": "Truhlář",
-    "name": "Jan",
-    "nationality": "cz"
+    "name": "Jan"
   },
   "4787": {
     "surname": "Tylich",
-    "name": "Jaroslav",
-    "nationality": "cz"
+    "name": "Jaroslav"
   },
   "3630": {
     "surname": "Typl",
-    "name": "Lukáš",
-    "nationality": "cz"
+    "name": "Lukáš"
   },
   "10349": {
     "surname": "Večeřák",
-    "name": "Tadeáš",
-    "nationality": "cz"
+    "name": "Tadeáš"
   },
   "11059": {
     "surname": "Vedral",
-    "name": "Jan",
-    "nationality": "cz"
+    "name": "Jan"
   },
   "12167": {
     "surname": "Veselý",
-    "name": "Matěj",
-    "nationality": "cz"
+    "name": "Matěj"
   },
   "6755": {
     "surname": "Vincena",
-    "name": "Petr",
-    "nationality": "cz"
+    "name": "Petr"
   },
   "11285": {
     "surname": "Vinklát",
-    "name": "Marek",
-    "nationality": "cz"
+    "name": "Marek"
   },
   "9598": {
     "surname": "Vítek",
-    "name": "Roman",
-    "nationality": "cz"
+    "name": "Roman"
   },
   "9636": {
     "surname": "Vlasák",
-    "name": "Jakub",
-    "nationality": "cz"
+    "name": "Jakub"
   },
   "10195": {
     "surname": "Vlasák",
@@ -784,23 +673,19 @@
   },
   "1499": {
     "surname": "Vlček",
-    "name": "Martin Belcredi",
-    "nationality": "cz"
+    "name": "Martin Belcredi"
   },
   "5119": {
     "surname": "Vobr",
-    "name": "David",
-    "nationality": "cz"
+    "name": "David"
   },
   "9272": {
     "surname": "Vochozka",
-    "name": "Josef",
-    "nationality": "cz"
+    "name": "Josef"
   },
   "9603": {
     "surname": "Voleková",
-    "name": "Marie",
-    "nationality": "cz"
+    "name": "Marie"
   },
   "10196": {
     "surname": "Voráček",
@@ -808,169 +693,102 @@
   },
   "8899": {
     "surname": "Vrabec",
-    "name": "Martin",
-    "nationality": "cz"
+    "name": "Martin"
   },
   "2140": {
     "surname": "Vrábeľ",
-    "name": "Martin",
-    "nationality": "sk"
+    "name": "Martin"
   },
   "11399": {
     "surname": "Wawrosz",
-    "name": "Artur",
-    "nationality": "pl"
+    "name": "Artur"
   },
   "2041": {
     "surname": "Weber",
-    "name": "Petr",
-    "nationality": "cz"
+    "name": "Petr"
   },
   "11073": {
     "surname": "Weber",
-    "name": "Tomáš",
-    "nationality": "cz"
+    "name": "Tomáš"
   },
   "9339": {
     "surname": "Wurstová",
-    "name": "Adéla",
-    "nationality": "cz"
+    "name": "Adéla"
   },
   "8755": {
     "surname": "Zajíček",
-    "name": "Antonín",
-    "nationality": "cz"
+    "name": "Antonín"
   },
   "8904": {
     "surname": "Zelenka",
-    "name": "Nick",
-    "nationality": "cz"
+    "name": "Nick"
   },
   "9350": {
     "surname": "Zubalík",
-    "name": "Jan",
-    "nationality": "cz"
+    "name": "Jan"
   },
   "12168": {
     "surname": "Žebro",
-    "name": "Michal",
-    "nationality": "cz"
+    "name": "Michal"
   },
   "3631": {
     "surname": "Žegklitz",
-    "name": "Jan",
-    "nationality": "cz"
+    "name": "Jan"
   },
   "-1": {
     "surname": "Šrajer",
-    "name": "Matěj",
-    "nationality": "cz"
+    "name": "Matěj"
   },
   "-5": {
     "surname": "Bártl",
-    "name": "Jan",
-    "nationality": "cz"
+    "name": "Jan"
   },
   "-7": {
     "surname": "Švoma",
-    "name": "Jan",
-    "nationality": "cz"
+    "name": "Jan"
   },
   "-9": {
     "surname": "Schüller",
-    "name": "Marian",
-    "nationality": "cz"
+    "name": "Marian"
   },
   "-10": {
     "surname": "Lstiburek",
-    "name": "Pavel",
-    "nationality": "cz"
+    "name": "Pavel"
   },
   "-23": {
     "surname": "Horanský",
-    "name": "Martin",
-    "nationality": "cz"
+    "name": "Martin"
   },
   "-28": {
     "surname": "Krůček",
-    "name": "Jan",
-    "nationality": "cz"
+    "name": "Jan"
   },
   "-29": {
     "surname": "Štěpán",
-    "name": "Jakub",
-    "nationality": "cz"
+    "name": "Jakub"
   },
   "-31": {
     "surname": "Habrych",
-    "name": "Jan",
-    "nationality": "cz"
+    "name": "Jan"
   },
   "-44": {
     "surname": "Otta",
-    "name": "Vladimír",
-    "nationality": "cz"
+    "name": "Vladimír"
   },
   "-45": {
     "surname": "Bekárek",
-    "name": "Štěpán",
-    "nationality": "cz"
-  },
-  "-49": {
-    "surname": "Sedlár",
-    "name": "Ondřej",
-    "nationality": "cz"
-  },
-  "-50": {
-    "surname": "Kroužek",
-    "name": "Vojtěch",
-    "nationality": "cz"
-  },
-  "-51": {
-    "surname": "Tovt",
-    "name": "Vladislav",
-    "nationality": "ru"
-  },
-  "-52": {
-    "surname": "Koryčanský",
-    "name": "Roman"
-  },
-  "-53": {
-    "surname": "McMahon-Smith",
-    "name": "Aidan"
-  },
-  "-54": {
-    "surname": "Palenik",
-    "name": "Matej",
-    "nationality": "cz"
-  },
-  "-55": {
-    "surname": "Bondar",
-    "name": "Illia",
-    "nationality": "ru"
-  },
-  "-56": {
-    "surname": "Bucchi",
-    "name": "Frederico"
-  },
-  "-57": {
-    "surname": "Kotroušová",
-    "name": "Denisa",
-    "nationality": "cz"
-  },
-  "-58": {
-    "surname": "Štáblová",
-    "name": "Taťána",
-    "nationality": "cz"
-  },
-  "-59": {
-    "surname": "Bok",
-    "name": "Radim",
-    "nationality": "cz"
+    "name": "Štěpán"
   },
   "-60": {
+    "surname": "Giannetti",
+    "name": "Giuliano"
+  },
+  "-61": {
+    "surname": "Rameš",
+    "name": "Filip"
+  },
+  "-62": {
     "surname": "...",
-    "name": "...",
-    "nationality": "..."
+    "name": "..."
   }
 }
